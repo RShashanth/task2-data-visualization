@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,State,City,Category,Sub-Category,Sales,Quantity,Discount,Profit,Region
+ORD-10000,2023-01-01,2023-01-02,Standard Class,CUST-20000,Ali,Consumer,India,Delhi,New Delhi,Furniture,Tables,2457.51,2,0.27,274.4,North
+ORD-10001,2023-01-02,2023-01-03,Standard Class,CUST-20001,John,Home Office,India,Maharashtra,Nagpur,Office Supplies,Binders,5515.1,6,0.15,701.9,West
+ORD-10002,2023-01-03,2023-01-04,Second Class,CUST-20002,Meera,Home Office,India,Telangana,Warangal,Office Supplies,Accessories,3171.95,2,0.22,43.22,South
+ORD-10003,2023-01-04,2023-01-05,Same Day,CUST-20003,David,Corporate,India,Maharashtra,Mumbai,Office Supplies,Binders,4468.67,6,0.09,-292.98,West
+ORD-10004,2023-01-05,2023-01-06,Standard Class,CUST-20004,Meera,Corporate,India,Karnataka,Bangalore,Office Supplies,Chairs,4602.71,3,0.1,569.06,South
+ORD-10005,2023-01-06,2023-01-07,First Class,CUST-20005,Sara,Consumer,India,Telangana,Hyderabad,Furniture,Storage,5937.53,2,0.06,964.41,South
+ORD-10006,2023-01-07,2023-01-08,First Class,CUST-20006,Priya,Consumer,India,Maharashtra,Nagpur,Office Supplies,Chairs,2409.48,6,0.17,488.87,West
+ORD-10007,2023-01-08,2023-01-09,First Class,CUST-20007,Meera,Consumer,India,Maharashtra,Pune,Office Supplies,Tables,4873.61,2,0.09,-144.1,West
+ORD-10008,2023-01-09,2023-01-10,Same Day,CUST-20008,Priya,Consumer,India,Delhi,New Delhi,Technology,Storage,6738.99,5,0.03,116.95,North
+ORD-10009,2023-01-10,2023-01-11,Second Class,CUST-20009,Meera,Home Office,India,Karnataka,Mysore,Office Supplies,Binders,5165.65,2,0.21,827.93,South
+ORD-10010,2023-01-11,2023-01-12,First Class,CUST-20010,John,Home Office,India,Delhi,New Delhi,Office Supplies,Chairs,3531.12,3,0.21,2.34,North
+ORD-10011,2023-01-12,2023-01-13,Same Day,CUST-20011,John,Corporate,India,Maharashtra,Mumbai,Technology,Phones,4488.88,3,0.11,490.0,West
+ORD-10012,2023-01-13,2023-01-14,Standard Class,CUST-20012,John,Consumer,India,Delhi,New Delhi,Technology,Accessories,5229.84,6,0.02,223.47,North
+ORD-10013,2023-01-14,2023-01-15,Second Class,CUST-20013,John,Consumer,India,Karnataka,Mysore,Furniture,Accessories,4363.48,6,0.13,-29.8,South
+ORD-10014,2023-01-15,2023-01-16,Standard Class,CUST-20014,John,Corporate,India,Maharashtra,Mumbai,Technology,Phones,313.4,3,0.13,757.43,West
+ORD-10015,2023-01-16,2023-01-17,Same Day,CUST-20015,John,Consumer,India,Tamil Nadu,Madurai,Furniture,Tables,1524.46,3,0.2,665.68,South
+ORD-10016,2023-01-17,2023-01-18,First Class,CUST-20016,Priya,Consumer,India,Telangana,Hyderabad,Technology,Storage,5711.18,1,0.09,560.07,South
+ORD-10017,2023-01-18,2023-01-19,First Class,CUST-20017,David,Consumer,India,Karnataka,Mysore,Technology,Accessories,2054.02,7,0.2,7.24,South
+ORD-10018,2023-01-19,2023-01-20,Same Day,CUST-20018,Meera,Consumer,India,Delhi,New Delhi,Furniture,Phones,5174.62,8,0.26,-172.79,North
+ORD-10019,2023-01-20,2023-01-21,First Class,CUST-20019,John,Consumer,India,Delhi,New Delhi,Technology,Binders,2730.42,2,0.07,449.01,North
+ORD-10020,2023-01-21,2023-01-22,Second Class,CUST-20020,Priya,Corporate,India,Telangana,Warangal,Furniture,Phones,3748.81,4,0.29,419.78,South
+ORD-10021,2023-01-22,2023-01-23,Same Day,CUST-20021,Priya,Consumer,India,Delhi,New Delhi,Technology,Tables,662.22,7,0.12,-55.1,North
+ORD-10022,2023-01-23,2023-01-24,Standard Class,CUST-20022,Priya,Corporate,India,Tamil Nadu,Madurai,Office Supplies,Tables,1432.33,8,0.08,-226.88,South
+ORD-10023,2023-01-24,2023-01-25,Same Day,CUST-20023,David,Consumer,India,Maharashtra,Nagpur,Technology,Chairs,6708.94,1,0.13,-195.08,West
+ORD-10024,2023-01-25,2023-01-26,Second Class,CUST-20024,Meera,Home Office,India,Maharashtra,Mumbai,Furniture,Accessories,6252.94,4,0.03,990.6,West
+ORD-10025,2023-01-26,2023-01-27,Second Class,CUST-20025,David,Home Office,India,Karnataka,Mysore,Technology,Chairs,4635.47,6,0.04,718.66,South
+ORD-10026,2023-01-27,2023-01-28,Same Day,CUST-20026,Ali,Home Office,India,Tamil Nadu,Coimbatore,Furniture,Phones,3325.58,3,0.12,898.58,South
+ORD-10027,2023-01-28,2023-01-29,Same Day,CUST-20027,Priya,Home Office,India,Karnataka,Mysore,Furniture,Storage,4795.18,5,0.23,-46.43,South
+ORD-10028,2023-01-29,2023-01-30,First Class,CUST-20028,Ali,Corporate,India,Tamil Nadu,Coimbatore,Office Supplies,Storage,4406.55,9,0.27,948.74,South
+ORD-10029,2023-01-30,2023-01-31,Second Class,CUST-20029,Sara,Corporate,India,Maharashtra,Pune,Office Supplies,Tables,4066.16,3,0.2,-114.55,West
+ORD-10030,2023-01-31,2023-02-01,Same Day,CUST-20030,John,Consumer,India,Delhi,New Delhi,Furniture,Storage,602.4,5,0.03,361.81,North
+ORD-10031,2023-02-01,2023-02-02,Same Day,CUST-20031,John,Home Office,India,Delhi,New Delhi,Technology,Storage,4503.06,8,0.2,778.6,North
+ORD-10032,2023-02-02,2023-02-03,Second Class,CUST-20032,David,Corporate,India,Delhi,New Delhi,Furniture,Storage,5428.66,6,0.19,154.74,North
+ORD-10033,2023-02-03,2023-02-04,Same Day,CUST-20033,Meera,Consumer,India,Delhi,New Delhi,Furniture,Phones,6959.76,4,0.24,252.28,North
+ORD-10034,2023-02-04,2023-02-05,First Class,CUST-20034,Ali,Consumer,India,Maharashtra,Nagpur,Technology,Storage,275.33,8,0.25,-133.36,West
+ORD-10035,2023-02-05,2023-02-06,Second Class,CUST-20035,Meera,Corporate,India,Telangana,Warangal,Technology,Binders,5165.18,3,0.26,-140.2,South
+ORD-10036,2023-02-06,2023-02-07,First Class,CUST-20036,David,Home Office,India,Tamil Nadu,Coimbatore,Technology,Storage,4088.17,3,0.12,505.44,South
+ORD-10037,2023-02-07,2023-02-08,First Class,CUST-20037,John,Consumer,India,Delhi,New Delhi,Technology,Storage,3151.55,4,0.21,578.19,North
+ORD-10038,2023-02-08,2023-02-09,First Class,CUST-20038,Meera,Home Office,India,Karnataka,Mysore,Furniture,Chairs,1067.48,9,0.08,710.53,South
+ORD-10039,2023-02-09,2023-02-10,First Class,CUST-20039,Meera,Home Office,India,Karnataka,Mysore,Furniture,Phones,2981.78,5,0.3,423.69,South
+ORD-10040,2023-02-10,2023-02-11,Second Class,CUST-20040,John,Home Office,India,Maharashtra,Nagpur,Office Supplies,Tables,2609.76,8,0.05,539.49,West
+ORD-10041,2023-02-11,2023-02-12,First Class,CUST-20041,Ali,Consumer,India,Karnataka,Mysore,Furniture,Chairs,2259.24,6,0.0,-282.43,South
+ORD-10042,2023-02-12,2023-02-13,First Class,CUST-20042,John,Home Office,India,Delhi,New Delhi,Technology,Accessories,5169.98,3,0.04,-89.18,North
+ORD-10043,2023-02-13,2023-02-14,Same Day,CUST-20043,Meera,Consumer,India,Karnataka,Mysore,Office Supplies,Phones,4964.93,8,0.23,980.39,South
+ORD-10044,2023-02-14,2023-02-15,Second Class,CUST-20044,Ali,Home Office,India,Delhi,New Delhi,Technology,Binders,4205.34,9,0.13,-201.21,North
+ORD-10045,2023-02-15,2023-02-16,Second Class,CUST-20045,Ali,Consumer,India,Delhi,New Delhi,Furniture,Phones,6582.92,8,0.13,582.42,North
+ORD-10046,2023-02-16,2023-02-17,Standard Class,CUST-20046,John,Home Office,India,Tamil Nadu,Coimbatore,Office Supplies,Accessories,2579.01,4,0.29,-71.09,South
+ORD-10047,2023-02-17,2023-02-18,Second Class,CUST-20047,Meera,Corporate,India,Maharashtra,Mumbai,Technology,Accessories,1857.85,6,0.28,631.73,West
+ORD-10048,2023-02-18,2023-02-19,Second Class,CUST-20048,David,Home Office,India,Karnataka,Bangalore,Office Supplies,Accessories,4660.14,1,0.09,617.79,South
+ORD-10049,2023-02-19,2023-02-20,Standard Class,CUST-20049,Meera,Home Office,India,Maharashtra,Pune,Office Supplies,Tables,1551.94,4,0.06,4.46,West
+ORD-10050,2023-02-20,2023-02-21,Second Class,CUST-20050,Priya,Consumer,India,Tamil Nadu,Chennai,Furniture,Storage,2342.07,8,0.25,50.52,South
+ORD-10051,2023-02-21,2023-02-22,Second Class,CUST-20051,Sara,Consumer,India,Tamil Nadu,Chennai,Technology,Phones,1727.3,1,0.27,551.2,South
+ORD-10052,2023-02-22,2023-02-23,Second Class,CUST-20052,David,Home Office,India,Maharashtra,Mumbai,Office Supplies,Storage,670.24,3,0.16,207.11,West
+ORD-10053,2023-02-23,2023-02-24,Second Class,CUST-20053,Ali,Corporate,India,Tamil Nadu,Madurai,Office Supplies,Storage,5826.99,1,0.19,-47.09,South
+ORD-10054,2023-02-24,2023-02-25,Standard Class,CUST-20054,David,Corporate,India,Tamil Nadu,Chennai,Technology,Binders,1930.88,9,0.08,651.18,South
+ORD-10055,2023-02-25,2023-02-26,Second Class,CUST-20055,Ali,Consumer,India,Delhi,New Delhi,Office Supplies,Accessories,3416.59,2,0.24,-99.61,North
+ORD-10056,2023-02-26,2023-02-27,Second Class,CUST-20056,Ali,Corporate,India,Telangana,Hyderabad,Office Supplies,Tables,494.54,9,0.19,812.34,South
+ORD-10057,2023-02-27,2023-02-28,Standard Class,CUST-20057,David,Home Office,India,Tamil Nadu,Madurai,Office Supplies,Binders,4955.51,4,0.15,369.07,South
+ORD-10058,2023-02-28,2023-03-01,Same Day,CUST-20058,Ali,Consumer,India,Telangana,Hyderabad,Technology,Chairs,2447.81,2,0.02,-162.59,South
+ORD-10059,2023-03-01,2023-03-02,First Class,CUST-20059,Ali,Home Office,India,Telangana,Hyderabad,Technology,Tables,5264.21,4,0.27,602.29,South
+ORD-10060,2023-03-02,2023-03-03,Same Day,CUST-20060,Priya,Consumer,India,Karnataka,Bangalore,Technology,Storage,3004.34,6,0.18,374.91,South
+ORD-10061,2023-03-03,2023-03-04,Standard Class,CUST-20061,Meera,Consumer,India,Karnataka,Bangalore,Technology,Tables,1531.14,7,0.06,87.47,South
+ORD-10062,2023-03-04,2023-03-05,First Class,CUST-20062,Meera,Consumer,India,Delhi,New Delhi,Furniture,Accessories,3689.59,3,0.18,249.3,North
+ORD-10063,2023-03-05,2023-03-06,Standard Class,CUST-20063,Sara,Consumer,India,Tamil Nadu,Coimbatore,Office Supplies,Chairs,1087.43,3,0.2,87.84,South
+ORD-10064,2023-03-06,2023-03-07,Standard Class,CUST-20064,Sara,Corporate,India,Tamil Nadu,Madurai,Technology,Accessories,3195.67,8,0.16,41.93,South
+ORD-10065,2023-03-07,2023-03-08,Second Class,CUST-20065,Priya,Home Office,India,Maharashtra,Nagpur,Office Supplies,Chairs,2357.68,5,0.22,-87.31,West
+ORD-10066,2023-03-08,2023-03-09,First Class,CUST-20066,Sara,Home Office,India,Delhi,New Delhi,Office Supplies,Binders,6401.33,4,0.17,171.6,North
+ORD-10067,2023-03-09,2023-03-10,Second Class,CUST-20067,David,Home Office,India,Telangana,Hyderabad,Furniture,Storage,614.32,7,0.28,26.28,South
+ORD-10068,2023-03-10,2023-03-11,First Class,CUST-20068,John,Consumer,India,Tamil Nadu,Madurai,Technology,Chairs,4919.32,7,0.02,588.46,South
+ORD-10069,2023-03-11,2023-03-12,Standard Class,CUST-20069,John,Corporate,India,Maharashtra,Nagpur,Technology,Chairs,1442.71,9,0.03,589.04,West
+ORD-10070,2023-03-12,2023-03-13,Standard Class,CUST-20070,John,Home Office,India,Telangana,Hyderabad,Office Supplies,Chairs,2369.51,9,0.05,352.39,South
+ORD-10071,2023-03-13,2023-03-14,Same Day,CUST-20071,Priya,Corporate,India,Maharashtra,Pune,Technology,Tables,3025.5,5,0.21,711.33,West
+ORD-10072,2023-03-14,2023-03-15,First Class,CUST-20072,Priya,Consumer,India,Telangana,Hyderabad,Office Supplies,Binders,6374.5,8,0.19,793.74,South
+ORD-10073,2023-03-15,2023-03-16,Second Class,CUST-20073,Ali,Home Office,India,Karnataka,Mysore,Office Supplies,Tables,1849.53,1,0.27,453.7,South
+ORD-10074,2023-03-16,2023-03-17,Same Day,CUST-20074,John,Corporate,India,Delhi,New Delhi,Furniture,Storage,820.9,9,0.22,504.62,North
+ORD-10075,2023-03-17,2023-03-18,Same Day,CUST-20075,David,Consumer,India,Maharashtra,Nagpur,Furniture,Chairs,2367.09,8,0.15,67.75,West
+ORD-10076,2023-03-18,2023-03-19,Same Day,CUST-20076,Sara,Corporate,India,Tamil Nadu,Chennai,Furniture,Binders,911.8,6,0.3,863.33,South
+ORD-10077,2023-03-19,2023-03-20,Second Class,CUST-20077,David,Home Office,India,Delhi,New Delhi,Office Supplies,Binders,1074.46,3,0.08,-268.53,North
+ORD-10078,2023-03-20,2023-03-21,Same Day,CUST-20078,Sara,Home Office,India,Maharashtra,Nagpur,Technology,Phones,4102.18,3,0.25,153.18,West
+ORD-10079,2023-03-21,2023-03-22,Second Class,CUST-20079,John,Consumer,India,Maharashtra,Nagpur,Furniture,Storage,614.13,8,0.13,638.34,West
+ORD-10080,2023-03-22,2023-03-23,Same Day,CUST-20080,John,Consumer,India,Telangana,Hyderabad,Technology,Binders,410.33,5,0.19,-195.88,South
+ORD-10081,2023-03-23,2023-03-24,Second Class,CUST-20081,John,Consumer,India,Delhi,New Delhi,Furniture,Chairs,5058.02,7,0.22,-61.88,North
+ORD-10082,2023-03-24,2023-03-25,Standard Class,CUST-20082,Priya,Corporate,India,Maharashtra,Nagpur,Furniture,Chairs,2659.2,5,0.19,466.07,West
+ORD-10083,2023-03-25,2023-03-26,Standard Class,CUST-20083,Sara,Corporate,India,Telangana,Hyderabad,Office Supplies,Binders,1052.55,8,0.04,427.99,South
+ORD-10084,2023-03-26,2023-03-27,Standard Class,CUST-20084,Priya,Corporate,India,Delhi,New Delhi,Furniture,Tables,1924.57,4,0.13,660.61,North
+ORD-10085,2023-03-27,2023-03-28,Standard Class,CUST-20085,Priya,Consumer,India,Karnataka,Mysore,Furniture,Storage,4566.19,2,0.17,756.4,South
+ORD-10086,2023-03-28,2023-03-29,Standard Class,CUST-20086,Meera,Home Office,India,Maharashtra,Pune,Office Supplies,Chairs,2073.65,3,0.25,-132.85,West
+ORD-10087,2023-03-29,2023-03-30,Same Day,CUST-20087,David,Home Office,India,Tamil Nadu,Chennai,Technology,Binders,3562.74,8,0.13,-276.1,South
+ORD-10088,2023-03-30,2023-03-31,Same Day,CUST-20088,David,Corporate,India,Delhi,New Delhi,Furniture,Chairs,1027.53,7,0.28,596.53,North
+ORD-10089,2023-03-31,2023-04-01,Same Day,CUST-20089,Ali,Corporate,India,Delhi,New Delhi,Office Supplies,Binders,4199.04,2,0.13,91.81,North
+ORD-10090,2023-04-01,2023-04-02,Second Class,CUST-20090,Priya,Home Office,India,Delhi,New Delhi,Furniture,Storage,2349.33,6,0.16,513.78,North
+ORD-10091,2023-04-02,2023-04-03,Second Class,CUST-20091,Sara,Home Office,India,Delhi,New Delhi,Office Supplies,Binders,4463.39,9,0.24,-104.29,North
+ORD-10092,2023-04-03,2023-04-04,Second Class,CUST-20092,Meera,Corporate,India,Delhi,New Delhi,Technology,Phones,5697.09,4,0.17,309.75,North
+ORD-10093,2023-04-04,2023-04-05,Second Class,CUST-20093,Meera,Corporate,India,Telangana,Warangal,Technology,Binders,4359.2,9,0.29,355.75,South
+ORD-10094,2023-04-05,2023-04-06,Standard Class,CUST-20094,David,Home Office,India,Karnataka,Bangalore,Office Supplies,Binders,2211.08,2,0.2,460.6,South
+ORD-10095,2023-04-06,2023-04-07,Standard Class,CUST-20095,Priya,Consumer,India,Delhi,New Delhi,Office Supplies,Storage,1939.06,2,0.16,367.12,North
+ORD-10096,2023-04-07,2023-04-08,Standard Class,CUST-20096,Ali,Corporate,India,Tamil Nadu,Madurai,Office Supplies,Binders,2426.46,9,0.01,344.4,South
+ORD-10097,2023-04-08,2023-04-09,First Class,CUST-20097,Priya,Home Office,India,Tamil Nadu,Chennai,Technology,Storage,1319.42,7,0.12,132.55,South
+ORD-10098,2023-04-09,2023-04-10,Same Day,CUST-20098,John,Home Office,India,Tamil Nadu,Madurai,Furniture,Phones,1431.97,7,0.09,-207.47,South
+ORD-10099,2023-04-10,2023-04-11,Second Class,CUST-20099,Priya,Home Office,India,Tamil Nadu,Chennai,Technology,Storage,5576.7,1,0.22,-183.62,South
+ORD-10100,2023-04-11,2023-04-12,Second Class,CUST-20100,John,Home Office,India,Tamil Nadu,Madurai,Office Supplies,Chairs,2816.18,6,0.06,263.91,South
+ORD-10101,2023-04-12,2023-04-13,Standard Class,CUST-20101,John,Consumer,India,Telangana,Hyderabad,Office Supplies,Storage,3164.77,7,0.06,162.53,South
+ORD-10102,2023-04-13,2023-04-14,Second Class,CUST-20102,Ali,Home Office,India,Maharashtra,Mumbai,Technology,Phones,4239.54,6,0.06,370.98,West
+ORD-10103,2023-04-14,2023-04-15,Second Class,CUST-20103,Sara,Corporate,India,Telangana,Warangal,Office Supplies,Accessories,4209.64,6,0.04,96.29,South
+ORD-10104,2023-04-15,2023-04-16,Same Day,CUST-20104,David,Consumer,India,Delhi,New Delhi,Technology,Binders,658.16,2,0.09,594.28,North
+ORD-10105,2023-04-16,2023-04-17,Standard Class,CUST-20105,Priya,Home Office,India,Telangana,Warangal,Office Supplies,Storage,5854.48,6,0.27,823.14,South
+ORD-10106,2023-04-17,2023-04-18,Same Day,CUST-20106,John,Consumer,India,Tamil Nadu,Chennai,Furniture,Binders,1405.82,4,0.23,88.52,South
+ORD-10107,2023-04-18,2023-04-19,First Class,CUST-20107,Priya,Corporate,India,Tamil Nadu,Coimbatore,Furniture,Tables,5116.89,9,0.22,-49.12,South
+ORD-10108,2023-04-19,2023-04-20,First Class,CUST-20108,Sara,Home Office,India,Delhi,New Delhi,Office Supplies,Chairs,5454.16,1,0.24,-148.97,North
+ORD-10109,2023-04-20,2023-04-21,First Class,CUST-20109,David,Corporate,India,Delhi,New Delhi,Technology,Chairs,5061.32,8,0.08,501.13,North
+ORD-10110,2023-04-21,2023-04-22,Standard Class,CUST-20110,Sara,Home Office,India,Karnataka,Bangalore,Furniture,Tables,4137.05,5,0.27,277.01,South
+ORD-10111,2023-04-22,2023-04-23,Second Class,CUST-20111,David,Home Office,India,Tamil Nadu,Chennai,Technology,Tables,299.34,1,0.04,-55.58,South
+ORD-10112,2023-04-23,2023-04-24,Standard Class,CUST-20112,Meera,Home Office,India,Tamil Nadu,Chennai,Office Supplies,Storage,2650.55,4,0.1,549.08,South
+ORD-10113,2023-04-24,2023-04-25,Standard Class,CUST-20113,David,Home Office,India,Telangana,Hyderabad,Technology,Tables,4312.91,1,0.18,-106.97,South
+ORD-10114,2023-04-25,2023-04-26,Second Class,CUST-20114,Ali,Home Office,India,Karnataka,Mysore,Furniture,Accessories,2834.67,6,0.03,420.59,South
+ORD-10115,2023-04-26,2023-04-27,Same Day,CUST-20115,Sara,Consumer,India,Delhi,New Delhi,Technology,Binders,6071.66,2,0.22,385.29,North
+ORD-10116,2023-04-27,2023-04-28,First Class,CUST-20116,John,Home Office,India,Maharashtra,Mumbai,Technology,Binders,2299.86,5,0.12,654.5,West
+ORD-10117,2023-04-28,2023-04-29,Same Day,CUST-20117,Meera,Home Office,India,Tamil Nadu,Madurai,Office Supplies,Phones,2196.04,7,0.24,-228.36,South
+ORD-10118,2023-04-29,2023-04-30,First Class,CUST-20118,Ali,Consumer,India,Karnataka,Bangalore,Office Supplies,Tables,2008.78,2,0.15,854.23,South
+ORD-10119,2023-04-30,2023-05-01,Standard Class,CUST-20119,Priya,Consumer,India,Delhi,New Delhi,Office Supplies,Tables,2462.91,6,0.05,613.89,North
+ORD-10120,2023-05-01,2023-05-02,First Class,CUST-20120,Sara,Consumer,India,Karnataka,Mysore,Furniture,Accessories,3990.35,6,0.22,-19.04,South
+ORD-10121,2023-05-02,2023-05-03,Standard Class,CUST-20121,John,Consumer,India,Delhi,New Delhi,Furniture,Chairs,5007.7,5,0.08,-61.57,North
+ORD-10122,2023-05-03,2023-05-04,Same Day,CUST-20122,David,Consumer,India,Telangana,Warangal,Office Supplies,Chairs,4705.46,5,0.15,261.16,South
+ORD-10123,2023-05-04,2023-05-05,Standard Class,CUST-20123,John,Consumer,India,Telangana,Hyderabad,Office Supplies,Binders,5692.48,3,0.02,762.83,South
+ORD-10124,2023-05-05,2023-05-06,Same Day,CUST-20124,Priya,Home Office,India,Maharashtra,Pune,Furniture,Binders,6224.22,2,0.19,795.83,West
+ORD-10125,2023-05-06,2023-05-07,Second Class,CUST-20125,Meera,Home Office,India,Telangana,Hyderabad,Furniture,Storage,5749.34,7,0.2,376.59,South
+ORD-10126,2023-05-07,2023-05-08,Second Class,CUST-20126,Meera,Corporate,India,Tamil Nadu,Chennai,Furniture,Accessories,328.83,1,0.11,819.05,South
+ORD-10127,2023-05-08,2023-05-09,Second Class,CUST-20127,Sara,Home Office,India,Delhi,New Delhi,Furniture,Phones,5204.24,6,0.29,-292.92,North
+ORD-10128,2023-05-09,2023-05-10,Standard Class,CUST-20128,Meera,Home Office,India,Telangana,Warangal,Office Supplies,Phones,1617.12,6,0.26,-254.27,South
+ORD-10129,2023-05-10,2023-05-11,Second Class,CUST-20129,Sara,Consumer,India,Maharashtra,Nagpur,Furniture,Accessories,1103.91,3,0.21,885.37,West
+ORD-10130,2023-05-11,2023-05-12,First Class,CUST-20130,Sara,Consumer,India,Delhi,New Delhi,Office Supplies,Phones,4541.72,2,0.21,707.93,North
+ORD-10131,2023-05-12,2023-05-13,Same Day,CUST-20131,Sara,Home Office,India,Delhi,New Delhi,Technology,Chairs,2374.25,2,0.08,285.92,North
+ORD-10132,2023-05-13,2023-05-14,Same Day,CUST-20132,David,Corporate,India,Telangana,Warangal,Technology,Phones,588.4,9,0.2,679.69,South
+ORD-10133,2023-05-14,2023-05-15,First Class,CUST-20133,Ali,Consumer,India,Telangana,Warangal,Furniture,Phones,1135.88,5,0.06,942.33,South
+ORD-10134,2023-05-15,2023-05-16,Standard Class,CUST-20134,Sara,Home Office,India,Telangana,Hyderabad,Technology,Accessories,206.32,7,0.04,703.72,South
+ORD-10135,2023-05-16,2023-05-17,Standard Class,CUST-20135,Sara,Home Office,India,Telangana,Warangal,Technology,Accessories,6341.92,5,0.3,795.08,South
+ORD-10136,2023-05-17,2023-05-18,Same Day,CUST-20136,Ali,Corporate,India,Delhi,New Delhi,Technology,Phones,367.4,7,0.19,688.79,North
+ORD-10137,2023-05-18,2023-05-19,Second Class,CUST-20137,John,Corporate,India,Tamil Nadu,Chennai,Furniture,Tables,1624.3,4,0.13,-81.33,South
+ORD-10138,2023-05-19,2023-05-20,Standard Class,CUST-20138,Sara,Consumer,India,Karnataka,Mysore,Furniture,Accessories,3030.59,8,0.09,783.65,South
+ORD-10139,2023-05-20,2023-05-21,Standard Class,CUST-20139,David,Corporate,India,Tamil Nadu,Madurai,Technology,Storage,2624.69,7,0.18,-46.36,South
+ORD-10140,2023-05-21,2023-05-22,First Class,CUST-20140,Meera,Home Office,India,Delhi,New Delhi,Office Supplies,Storage,6399.74,5,0.01,860.39,North
+ORD-10141,2023-05-22,2023-05-23,First Class,CUST-20141,Meera,Home Office,India,Tamil Nadu,Chennai,Technology,Chairs,473.96,6,0.03,296.24,South
+ORD-10142,2023-05-23,2023-05-24,Second Class,CUST-20142,Priya,Corporate,India,Karnataka,Bangalore,Furniture,Phones,3683.06,5,0.01,580.07,South
+ORD-10143,2023-05-24,2023-05-25,Standard Class,CUST-20143,Priya,Corporate,India,Karnataka,Bangalore,Furniture,Tables,4827.26,7,0.15,346.41,South
+ORD-10144,2023-05-25,2023-05-26,Standard Class,CUST-20144,Meera,Corporate,India,Delhi,New Delhi,Furniture,Chairs,6535.55,2,0.18,-177.81,North
+ORD-10145,2023-05-26,2023-05-27,First Class,CUST-20145,Meera,Corporate,India,Karnataka,Mysore,Technology,Phones,4418.52,5,0.02,77.94,South
+ORD-10146,2023-05-27,2023-05-28,Standard Class,CUST-20146,David,Consumer,India,Tamil Nadu,Chennai,Office Supplies,Accessories,5665.54,3,0.22,978.85,South
+ORD-10147,2023-05-28,2023-05-29,Same Day,CUST-20147,Ali,Corporate,India,Karnataka,Bangalore,Furniture,Storage,769.33,9,0.07,948.93,South
+ORD-10148,2023-05-29,2023-05-30,First Class,CUST-20148,Priya,Consumer,India,Delhi,New Delhi,Furniture,Binders,2824.39,6,0.21,116.63,North
+ORD-10149,2023-05-30,2023-05-31,Second Class,CUST-20149,Ali,Home Office,India,Maharashtra,Mumbai,Technology,Tables,2742.84,3,0.29,995.19,West
+ORD-10150,2023-05-31,2023-06-01,First Class,CUST-20150,David,Corporate,India,Telangana,Hyderabad,Office Supplies,Binders,6226.76,7,0.21,799.22,South
+ORD-10151,2023-06-01,2023-06-02,Standard Class,CUST-20151,Meera,Consumer,India,Tamil Nadu,Chennai,Technology,Storage,1229.32,4,0.26,494.25,South
+ORD-10152,2023-06-02,2023-06-03,Second Class,CUST-20152,Sara,Corporate,India,Telangana,Hyderabad,Furniture,Binders,1232.83,3,0.28,-247.84,South
+ORD-10153,2023-06-03,2023-06-04,First Class,CUST-20153,Ali,Home Office,India,Telangana,Warangal,Office Supplies,Accessories,2434.2,8,0.15,871.88,South
+ORD-10154,2023-06-04,2023-06-05,Same Day,CUST-20154,Meera,Home Office,India,Tamil Nadu,Madurai,Office Supplies,Phones,570.37,4,0.21,424.66,South
+ORD-10155,2023-06-05,2023-06-06,Same Day,CUST-20155,Meera,Home Office,India,Tamil Nadu,Coimbatore,Furniture,Accessories,1440.71,1,0.26,829.02,South
+ORD-10156,2023-06-06,2023-06-07,First Class,CUST-20156,John,Corporate,India,Delhi,New Delhi,Office Supplies,Binders,6763.43,6,0.11,784.76,North
+ORD-10157,2023-06-07,2023-06-08,Same Day,CUST-20157,Ali,Corporate,India,Telangana,Warangal,Office Supplies,Accessories,3111.65,1,0.08,782.91,South
+ORD-10158,2023-06-08,2023-06-09,Same Day,CUST-20158,Sara,Consumer,India,Tamil Nadu,Madurai,Technology,Storage,4497.73,5,0.28,607.63,South
+ORD-10159,2023-06-09,2023-06-10,Same Day,CUST-20159,Ali,Home Office,India,Tamil Nadu,Chennai,Furniture,Tables,5137.56,7,0.22,78.84,South
+ORD-10160,2023-06-10,2023-06-11,Second Class,CUST-20160,Meera,Corporate,India,Karnataka,Mysore,Furniture,Accessories,2695.34,6,0.07,137.01,South
+ORD-10161,2023-06-11,2023-06-12,Same Day,CUST-20161,Sara,Home Office,India,Karnataka,Mysore,Furniture,Storage,1201.14,2,0.13,101.01,South
+ORD-10162,2023-06-12,2023-06-13,Same Day,CUST-20162,David,Home Office,India,Telangana,Warangal,Furniture,Tables,1604.75,4,0.24,-273.94,South
+ORD-10163,2023-06-13,2023-06-14,Same Day,CUST-20163,John,Consumer,India,Maharashtra,Mumbai,Furniture,Phones,2330.21,2,0.16,457.34,West
+ORD-10164,2023-06-14,2023-06-15,Second Class,CUST-20164,Meera,Consumer,India,Delhi,New Delhi,Office Supplies,Binders,4525.27,1,0.19,608.48,North
+ORD-10165,2023-06-15,2023-06-16,First Class,CUST-20165,Priya,Consumer,India,Tamil Nadu,Chennai,Technology,Phones,2908.31,3,0.23,810.03,South
+ORD-10166,2023-06-16,2023-06-17,Standard Class,CUST-20166,Priya,Consumer,India,Maharashtra,Nagpur,Furniture,Chairs,246.34,3,0.19,-117.78,West
+ORD-10167,2023-06-17,2023-06-18,Same Day,CUST-20167,John,Home Office,India,Telangana,Hyderabad,Technology,Storage,3759.17,7,0.16,407.44,South
+ORD-10168,2023-06-18,2023-06-19,First Class,CUST-20168,David,Consumer,India,Tamil Nadu,Madurai,Technology,Tables,6466.29,1,0.22,-289.59,South
+ORD-10169,2023-06-19,2023-06-20,Same Day,CUST-20169,Meera,Consumer,India,Telangana,Warangal,Office Supplies,Accessories,5722.13,9,0.22,-176.38,South
+ORD-10170,2023-06-20,2023-06-21,Second Class,CUST-20170,Ali,Consumer,India,Maharashtra,Nagpur,Furniture,Phones,5811.44,6,0.19,-229.52,West
+ORD-10171,2023-06-21,2023-06-22,First Class,CUST-20171,John,Consumer,India,Telangana,Hyderabad,Office Supplies,Tables,5606.39,4,0.11,643.12,South
+ORD-10172,2023-06-22,2023-06-23,Second Class,CUST-20172,David,Home Office,India,Karnataka,Bangalore,Furniture,Storage,2401.37,3,0.12,-194.62,South
+ORD-10173,2023-06-23,2023-06-24,Same Day,CUST-20173,Ali,Consumer,India,Tamil Nadu,Madurai,Office Supplies,Chairs,5403.32,3,0.29,631.39,South
+ORD-10174,2023-06-24,2023-06-25,Same Day,CUST-20174,Priya,Home Office,India,Tamil Nadu,Chennai,Technology,Phones,1173.5,2,0.03,24.51,South
+ORD-10175,2023-06-25,2023-06-26,Second Class,CUST-20175,Priya,Corporate,India,Delhi,New Delhi,Furniture,Binders,4672.47,2,0.08,841.03,North
+ORD-10176,2023-06-26,2023-06-27,Standard Class,CUST-20176,Ali,Home Office,India,Maharashtra,Nagpur,Technology,Tables,4562.67,5,0.15,757.09,West
+ORD-10177,2023-06-27,2023-06-28,Second Class,CUST-20177,John,Home Office,India,Delhi,New Delhi,Technology,Binders,373.87,9,0.25,945.18,North
+ORD-10178,2023-06-28,2023-06-29,Same Day,CUST-20178,Priya,Consumer,India,Telangana,Warangal,Office Supplies,Tables,5558.2,2,0.05,848.89,South
+ORD-10179,2023-06-29,2023-06-30,Second Class,CUST-20179,Meera,Corporate,India,Tamil Nadu,Chennai,Furniture,Tables,6342.09,2,0.08,913.33,South
+ORD-10180,2023-06-30,2023-07-01,Standard Class,CUST-20180,Sara,Corporate,India,Delhi,New Delhi,Technology,Storage,2018.42,6,0.02,816.37,North
+ORD-10181,2023-07-01,2023-07-02,Second Class,CUST-20181,Ali,Corporate,India,Delhi,New Delhi,Office Supplies,Storage,5724.26,2,0.21,601.4,North
+ORD-10182,2023-07-02,2023-07-03,Standard Class,CUST-20182,Ali,Corporate,India,Maharashtra,Pune,Furniture,Storage,760.36,4,0.07,-78.66,West
+ORD-10183,2023-07-03,2023-07-04,Standard Class,CUST-20183,Priya,Home Office,India,Maharashtra,Pune,Furniture,Accessories,4279.78,6,0.12,53.22,West
+ORD-10184,2023-07-04,2023-07-05,Second Class,CUST-20184,John,Corporate,India,Telangana,Warangal,Technology,Tables,3502.4,5,0.13,-23.45,South
+ORD-10185,2023-07-05,2023-07-06,Second Class,CUST-20185,Meera,Home Office,India,Tamil Nadu,Chennai,Furniture,Phones,3912.28,1,0.27,484.66,South
+ORD-10186,2023-07-06,2023-07-07,First Class,CUST-20186,John,Home Office,India,Maharashtra,Mumbai,Technology,Binders,6498.2,6,0.12,354.71,West
+ORD-10187,2023-07-07,2023-07-08,Same Day,CUST-20187,David,Home Office,India,Maharashtra,Nagpur,Furniture,Storage,6124.94,1,0.04,827.2,West
+ORD-10188,2023-07-08,2023-07-09,Standard Class,CUST-20188,David,Corporate,India,Telangana,Warangal,Office Supplies,Storage,5538.57,3,0.16,938.47,South
+ORD-10189,2023-07-09,2023-07-10,First Class,CUST-20189,Sara,Consumer,India,Tamil Nadu,Madurai,Technology,Binders,2061.15,5,0.29,226.32,South
+ORD-10190,2023-07-10,2023-07-11,Second Class,CUST-20190,Priya,Consumer,India,Maharashtra,Mumbai,Technology,Binders,6400.37,5,0.18,358.26,West
+ORD-10191,2023-07-11,2023-07-12,Same Day,CUST-20191,Priya,Corporate,India,Tamil Nadu,Madurai,Furniture,Tables,863.05,6,0.3,962.97,South
+ORD-10192,2023-07-12,2023-07-13,First Class,CUST-20192,Priya,Consumer,India,Karnataka,Bangalore,Furniture,Storage,6002.64,8,0.25,59.11,South
+ORD-10193,2023-07-13,2023-07-14,Standard Class,CUST-20193,Sara,Consumer,India,Karnataka,Bangalore,Technology,Binders,2431.49,5,0.01,730.11,South
+ORD-10194,2023-07-14,2023-07-15,First Class,CUST-20194,David,Home Office,India,Karnataka,Bangalore,Furniture,Accessories,565.65,1,0.2,-7.19,South
+ORD-10195,2023-07-15,2023-07-16,Standard Class,CUST-20195,John,Home Office,India,Karnataka,Mysore,Office Supplies,Accessories,4751.63,5,0.09,585.9,South
+ORD-10196,2023-07-16,2023-07-17,Second Class,CUST-20196,Sara,Corporate,India,Karnataka,Bangalore,Furniture,Storage,1772.7,3,0.17,29.7,South
+ORD-10197,2023-07-17,2023-07-18,Same Day,CUST-20197,Sara,Corporate,India,Telangana,Warangal,Office Supplies,Binders,1856.28,4,0.08,848.85,South
+ORD-10198,2023-07-18,2023-07-19,Same Day,CUST-20198,John,Consumer,India,Karnataka,Mysore,Office Supplies,Tables,2281.12,8,0.1,429.92,South
+ORD-10199,2023-07-19,2023-07-20,Same Day,CUST-20199,Priya,Home Office,India,Tamil Nadu,Chennai,Office Supplies,Tables,633.06,7,0.28,-58.29,South
+ORD-10200,2023-07-20,2023-07-21,Second Class,CUST-20200,Meera,Corporate,India,Tamil Nadu,Madurai,Office Supplies,Tables,1404.46,5,0.06,-8.32,South
+ORD-10201,2023-07-21,2023-07-22,Standard Class,CUST-20201,John,Corporate,India,Maharashtra,Pune,Office Supplies,Chairs,234.95,2,0.26,342.0,West
+ORD-10202,2023-07-22,2023-07-23,Second Class,CUST-20202,David,Corporate,India,Karnataka,Bangalore,Furniture,Storage,3228.78,6,0.01,950.08,South
+ORD-10203,2023-07-23,2023-07-24,Same Day,CUST-20203,Ali,Corporate,India,Karnataka,Bangalore,Office Supplies,Tables,772.94,6,0.03,700.53,South
+ORD-10204,2023-07-24,2023-07-25,Second Class,CUST-20204,Ali,Corporate,India,Maharashtra,Pune,Furniture,Accessories,4842.04,6,0.26,334.8,West
+ORD-10205,2023-07-25,2023-07-26,Second Class,CUST-20205,Sara,Corporate,India,Tamil Nadu,Chennai,Office Supplies,Binders,1802.24,9,0.19,139.03,South
+ORD-10206,2023-07-26,2023-07-27,Second Class,CUST-20206,Ali,Consumer,India,Delhi,New Delhi,Technology,Phones,6616.3,8,0.22,414.05,North
+ORD-10207,2023-07-27,2023-07-28,Standard Class,CUST-20207,Meera,Home Office,India,Tamil Nadu,Coimbatore,Office Supplies,Phones,6124.51,8,0.06,672.87,South
+ORD-10208,2023-07-28,2023-07-29,First Class,CUST-20208,Priya,Home Office,India,Delhi,New Delhi,Technology,Tables,2168.2,1,0.16,719.11,North
+ORD-10209,2023-07-29,2023-07-30,First Class,CUST-20209,David,Corporate,India,Telangana,Hyderabad,Office Supplies,Phones,5525.87,5,0.22,121.99,South
+ORD-10210,2023-07-30,2023-07-31,Second Class,CUST-20210,Meera,Home Office,India,Delhi,New Delhi,Office Supplies,Phones,5662.07,7,0.19,637.51,North
+ORD-10211,2023-07-31,2023-08-01,First Class,CUST-20211,David,Home Office,India,Karnataka,Mysore,Office Supplies,Chairs,6908.63,6,0.14,555.13,South
+ORD-10212,2023-08-01,2023-08-02,First Class,CUST-20212,David,Home Office,India,Telangana,Hyderabad,Technology,Accessories,4265.31,5,0.29,946.85,South
+ORD-10213,2023-08-02,2023-08-03,Second Class,CUST-20213,Priya,Corporate,India,Karnataka,Bangalore,Technology,Accessories,757.37,8,0.2,910.42,South
+ORD-10214,2023-08-03,2023-08-04,Second Class,CUST-20214,Sara,Corporate,India,Maharashtra,Pune,Office Supplies,Chairs,4598.49,3,0.27,726.19,West
+ORD-10215,2023-08-04,2023-08-05,Same Day,CUST-20215,Ali,Home Office,India,Karnataka,Mysore,Furniture,Chairs,4449.86,6,0.22,640.41,South
+ORD-10216,2023-08-05,2023-08-06,First Class,CUST-20216,Priya,Home Office,India,Tamil Nadu,Coimbatore,Office Supplies,Phones,4540.78,5,0.22,56.25,South
+ORD-10217,2023-08-06,2023-08-07,Standard Class,CUST-20217,Meera,Corporate,India,Telangana,Warangal,Technology,Storage,2288.59,8,0.02,799.75,South
+ORD-10218,2023-08-07,2023-08-08,Second Class,CUST-20218,Sara,Consumer,India,Maharashtra,Mumbai,Office Supplies,Binders,6045.82,4,0.11,255.76,West
+ORD-10219,2023-08-08,2023-08-09,Same Day,CUST-20219,Meera,Home Office,India,Maharashtra,Mumbai,Technology,Binders,6724.41,8,0.26,53.91,West
+ORD-10220,2023-08-09,2023-08-10,Standard Class,CUST-20220,Sara,Consumer,India,Delhi,New Delhi,Technology,Phones,1680.45,2,0.07,199.41,North
+ORD-10221,2023-08-10,2023-08-11,First Class,CUST-20221,Meera,Home Office,India,Maharashtra,Pune,Technology,Binders,799.43,9,0.03,786.72,West
+ORD-10222,2023-08-11,2023-08-12,Same Day,CUST-20222,Priya,Consumer,India,Telangana,Hyderabad,Office Supplies,Chairs,1522.84,9,0.1,-106.78,South
+ORD-10223,2023-08-12,2023-08-13,Second Class,CUST-20223,Sara,Consumer,India,Delhi,New Delhi,Technology,Accessories,5779.75,6,0.07,293.01,North
+ORD-10224,2023-08-13,2023-08-14,Standard Class,CUST-20224,Sara,Consumer,India,Maharashtra,Pune,Technology,Binders,4801.18,4,0.28,340.06,West
+ORD-10225,2023-08-14,2023-08-15,Second Class,CUST-20225,David,Corporate,India,Delhi,New Delhi,Office Supplies,Phones,4525.12,4,0.26,-252.38,North
+ORD-10226,2023-08-15,2023-08-16,First Class,CUST-20226,David,Consumer,India,Karnataka,Mysore,Technology,Storage,2932.19,6,0.15,-45.53,South
+ORD-10227,2023-08-16,2023-08-17,Standard Class,CUST-20227,John,Consumer,India,Telangana,Hyderabad,Office Supplies,Phones,4129.23,5,0.02,774.77,South
+ORD-10228,2023-08-17,2023-08-18,First Class,CUST-20228,Meera,Consumer,India,Telangana,Warangal,Technology,Tables,2293.54,6,0.21,780.0,South
+ORD-10229,2023-08-18,2023-08-19,First Class,CUST-20229,David,Home Office,India,Karnataka,Bangalore,Furniture,Phones,3444.96,7,0.19,80.14,South
+ORD-10230,2023-08-19,2023-08-20,Same Day,CUST-20230,John,Consumer,India,Karnataka,Bangalore,Furniture,Chairs,5592.83,7,0.29,837.37,South
+ORD-10231,2023-08-20,2023-08-21,Second Class,CUST-20231,David,Home Office,India,Karnataka,Bangalore,Technology,Accessories,6872.44,9,0.17,703.32,South
+ORD-10232,2023-08-21,2023-08-22,Standard Class,CUST-20232,Meera,Consumer,India,Tamil Nadu,Chennai,Furniture,Accessories,6540.92,8,0.1,243.28,South
+ORD-10233,2023-08-22,2023-08-23,First Class,CUST-20233,Sara,Consumer,India,Tamil Nadu,Coimbatore,Office Supplies,Binders,6550.29,6,0.16,672.93,South
+ORD-10234,2023-08-23,2023-08-24,First Class,CUST-20234,Ali,Corporate,India,Karnataka,Bangalore,Furniture,Chairs,2935.12,6,0.29,949.74,South
+ORD-10235,2023-08-24,2023-08-25,Standard Class,CUST-20235,Meera,Home Office,India,Karnataka,Mysore,Technology,Tables,3387.77,5,0.21,296.66,South
+ORD-10236,2023-08-25,2023-08-26,First Class,CUST-20236,Priya,Consumer,India,Tamil Nadu,Chennai,Technology,Chairs,4998.32,1,0.2,9.96,South
+ORD-10237,2023-08-26,2023-08-27,Same Day,CUST-20237,David,Home Office,India,Maharashtra,Mumbai,Office Supplies,Phones,6470.91,9,0.07,924.36,West
+ORD-10238,2023-08-27,2023-08-28,Same Day,CUST-20238,David,Home Office,India,Maharashtra,Nagpur,Technology,Chairs,1165.56,9,0.22,484.87,West
+ORD-10239,2023-08-28,2023-08-29,Same Day,CUST-20239,Sara,Corporate,India,Maharashtra,Pune,Office Supplies,Chairs,2268.84,9,0.23,-163.16,West
+ORD-10240,2023-08-29,2023-08-30,Same Day,CUST-20240,Priya,Corporate,India,Maharashtra,Nagpur,Furniture,Tables,1146.88,8,0.1,444.49,West
+ORD-10241,2023-08-30,2023-08-31,First Class,CUST-20241,Sara,Corporate,India,Telangana,Warangal,Furniture,Phones,4361.66,3,0.15,350.76,South
+ORD-10242,2023-08-31,2023-09-01,Standard Class,CUST-20242,Priya,Corporate,India,Karnataka,Mysore,Office Supplies,Storage,2282.85,1,0.09,812.27,South
+ORD-10243,2023-09-01,2023-09-02,Standard Class,CUST-20243,Ali,Corporate,India,Telangana,Hyderabad,Office Supplies,Storage,2417.53,8,0.08,389.9,South
+ORD-10244,2023-09-02,2023-09-03,Standard Class,CUST-20244,David,Corporate,India,Tamil Nadu,Chennai,Technology,Accessories,682.23,7,0.01,31.8,South
+ORD-10245,2023-09-03,2023-09-04,Standard Class,CUST-20245,David,Corporate,India,Delhi,New Delhi,Furniture,Binders,2578.61,5,0.09,578.34,North
+ORD-10246,2023-09-04,2023-09-05,Second Class,CUST-20246,Ali,Corporate,India,Maharashtra,Nagpur,Office Supplies,Chairs,6064.98,7,0.17,405.35,West
+ORD-10247,2023-09-05,2023-09-06,Standard Class,CUST-20247,John,Consumer,India,Tamil Nadu,Coimbatore,Furniture,Accessories,1784.9,4,0.0,2.96,South
+ORD-10248,2023-09-06,2023-09-07,Second Class,CUST-20248,Sara,Home Office,India,Delhi,New Delhi,Office Supplies,Tables,4927.27,9,0.08,445.72,North
+ORD-10249,2023-09-07,2023-09-08,Second Class,CUST-20249,Ali,Corporate,India,Maharashtra,Pune,Furniture,Storage,4481.47,2,0.26,768.0,West
+ORD-10250,2023-09-08,2023-09-09,Same Day,CUST-20250,Sara,Corporate,India,Karnataka,Mysore,Technology,Chairs,6071.7,9,0.18,-262.86,South
+ORD-10251,2023-09-09,2023-09-10,Second Class,CUST-20251,Meera,Home Office,India,Maharashtra,Nagpur,Furniture,Tables,1099.56,9,0.18,520.11,West
+ORD-10252,2023-09-10,2023-09-11,First Class,CUST-20252,David,Consumer,India,Delhi,New Delhi,Furniture,Binders,6847.61,5,0.12,154.46,North
+ORD-10253,2023-09-11,2023-09-12,Second Class,CUST-20253,Sara,Home Office,India,Tamil Nadu,Coimbatore,Furniture,Tables,4161.87,1,0.2,80.47,South
+ORD-10254,2023-09-12,2023-09-13,Same Day,CUST-20254,Priya,Home Office,India,Maharashtra,Nagpur,Furniture,Chairs,6969.22,7,0.06,210.36,West
+ORD-10255,2023-09-13,2023-09-14,Second Class,CUST-20255,Sara,Corporate,India,Karnataka,Mysore,Furniture,Binders,6398.3,4,0.25,144.63,South
+ORD-10256,2023-09-14,2023-09-15,First Class,CUST-20256,Meera,Home Office,India,Maharashtra,Pune,Technology,Tables,1706.32,9,0.04,781.91,West
+ORD-10257,2023-09-15,2023-09-16,First Class,CUST-20257,David,Home Office,India,Delhi,New Delhi,Office Supplies,Binders,581.9,6,0.2,57.24,North
+ORD-10258,2023-09-16,2023-09-17,First Class,CUST-20258,Ali,Corporate,India,Karnataka,Mysore,Furniture,Chairs,1938.35,3,0.1,653.1,South
+ORD-10259,2023-09-17,2023-09-18,Same Day,CUST-20259,Meera,Corporate,India,Telangana,Warangal,Technology,Chairs,3787.43,6,0.22,-177.72,South
+ORD-10260,2023-09-18,2023-09-19,Same Day,CUST-20260,David,Corporate,India,Tamil Nadu,Chennai,Furniture,Binders,1366.86,6,0.16,936.82,South
+ORD-10261,2023-09-19,2023-09-20,Standard Class,CUST-20261,Sara,Corporate,India,Maharashtra,Nagpur,Furniture,Phones,1338.73,5,0.14,509.01,West
+ORD-10262,2023-09-20,2023-09-21,Same Day,CUST-20262,John,Home Office,India,Karnataka,Bangalore,Office Supplies,Accessories,3345.64,2,0.05,618.73,South
+ORD-10263,2023-09-21,2023-09-22,First Class,CUST-20263,John,Home Office,India,Delhi,New Delhi,Furniture,Tables,426.22,2,0.19,87.45,North
+ORD-10264,2023-09-22,2023-09-23,First Class,CUST-20264,Priya,Consumer,India,Telangana,Warangal,Technology,Tables,1028.84,7,0.29,235.73,South
+ORD-10265,2023-09-23,2023-09-24,Same Day,CUST-20265,David,Consumer,India,Delhi,New Delhi,Technology,Phones,3027.86,2,0.25,-9.09,North
+ORD-10266,2023-09-24,2023-09-25,Second Class,CUST-20266,John,Home Office,India,Karnataka,Bangalore,Office Supplies,Phones,629.28,6,0.02,912.3,South
+ORD-10267,2023-09-25,2023-09-26,Same Day,CUST-20267,Ali,Consumer,India,Delhi,New Delhi,Furniture,Phones,2897.93,5,0.11,334.54,North
+ORD-10268,2023-09-26,2023-09-27,Same Day,CUST-20268,David,Home Office,India,Tamil Nadu,Chennai,Technology,Storage,3423.24,4,0.28,519.58,South
+ORD-10269,2023-09-27,2023-09-28,First Class,CUST-20269,Ali,Consumer,India,Maharashtra,Nagpur,Furniture,Storage,3268.61,7,0.15,654.55,West
+ORD-10270,2023-09-28,2023-09-29,Standard Class,CUST-20270,Ali,Corporate,India,Telangana,Hyderabad,Furniture,Binders,6110.39,8,0.2,182.44,South
+ORD-10271,2023-09-29,2023-09-30,First Class,CUST-20271,John,Consumer,India,Delhi,New Delhi,Furniture,Storage,3804.42,4,0.27,636.13,North
+ORD-10272,2023-09-30,2023-10-01,Standard Class,CUST-20272,David,Corporate,India,Telangana,Hyderabad,Office Supplies,Chairs,3382.27,1,0.26,578.79,South
+ORD-10273,2023-10-01,2023-10-02,First Class,CUST-20273,Sara,Corporate,India,Tamil Nadu,Coimbatore,Furniture,Binders,2992.82,1,0.15,617.36,South
+ORD-10274,2023-10-02,2023-10-03,Same Day,CUST-20274,Meera,Corporate,India,Telangana,Warangal,Technology,Tables,5759.84,1,0.13,336.0,South
+ORD-10275,2023-10-03,2023-10-04,First Class,CUST-20275,John,Corporate,India,Maharashtra,Mumbai,Furniture,Accessories,6286.38,1,0.1,197.82,West
+ORD-10276,2023-10-04,2023-10-05,First Class,CUST-20276,John,Consumer,India,Delhi,New Delhi,Technology,Chairs,6002.05,5,0.22,-11.29,North
+ORD-10277,2023-10-05,2023-10-06,First Class,CUST-20277,Sara,Home Office,India,Karnataka,Bangalore,Furniture,Tables,4780.12,4,0.09,772.01,South
+ORD-10278,2023-10-06,2023-10-07,Same Day,CUST-20278,David,Corporate,India,Telangana,Warangal,Technology,Tables,1134.06,9,0.07,490.86,South
+ORD-10279,2023-10-07,2023-10-08,Same Day,CUST-20279,David,Consumer,India,Telangana,Hyderabad,Technology,Binders,2082.72,3,0.11,277.66,South
+ORD-10280,2023-10-08,2023-10-09,Same Day,CUST-20280,Ali,Corporate,India,Tamil Nadu,Coimbatore,Furniture,Phones,513.23,7,0.05,927.19,South
+ORD-10281,2023-10-09,2023-10-10,Same Day,CUST-20281,Sara,Consumer,India,Maharashtra,Pune,Furniture,Phones,6529.6,8,0.21,-237.81,West
+ORD-10282,2023-10-10,2023-10-11,Standard Class,CUST-20282,Sara,Consumer,India,Karnataka,Mysore,Technology,Chairs,4693.43,6,0.18,805.22,South
+ORD-10283,2023-10-11,2023-10-12,Standard Class,CUST-20283,David,Consumer,India,Karnataka,Bangalore,Office Supplies,Phones,5275.27,1,0.14,996.86,South
+ORD-10284,2023-10-12,2023-10-13,Second Class,CUST-20284,Ali,Home Office,India,Tamil Nadu,Madurai,Furniture,Tables,2318.69,8,0.12,853.02,South
+ORD-10285,2023-10-13,2023-10-14,Same Day,CUST-20285,John,Consumer,India,Delhi,New Delhi,Office Supplies,Phones,5950.44,3,0.27,753.57,North
+ORD-10286,2023-10-14,2023-10-15,Standard Class,CUST-20286,Priya,Consumer,India,Karnataka,Bangalore,Furniture,Storage,1965.3,8,0.01,186.6,South
+ORD-10287,2023-10-15,2023-10-16,First Class,CUST-20287,Meera,Home Office,India,Karnataka,Bangalore,Furniture,Phones,211.18,4,0.23,0.71,South
+ORD-10288,2023-10-16,2023-10-17,Same Day,CUST-20288,John,Home Office,India,Telangana,Hyderabad,Furniture,Tables,2759.62,8,0.27,655.31,South
+ORD-10289,2023-10-17,2023-10-18,Second Class,CUST-20289,David,Consumer,India,Delhi,New Delhi,Furniture,Binders,4081.18,1,0.13,95.95,North
+ORD-10290,2023-10-18,2023-10-19,Second Class,CUST-20290,Meera,Home Office,India,Tamil Nadu,Chennai,Office Supplies,Chairs,3455.19,3,0.17,-71.15,South
+ORD-10291,2023-10-19,2023-10-20,Second Class,CUST-20291,Priya,Corporate,India,Maharashtra,Mumbai,Furniture,Accessories,6062.12,6,0.28,722.48,West
+ORD-10292,2023-10-20,2023-10-21,First Class,CUST-20292,Priya,Corporate,India,Delhi,New Delhi,Technology,Phones,916.76,9,0.06,106.31,North
+ORD-10293,2023-10-21,2023-10-22,Standard Class,CUST-20293,Ali,Home Office,India,Karnataka,Bangalore,Technology,Tables,3966.0,2,0.16,888.77,South
+ORD-10294,2023-10-22,2023-10-23,First Class,CUST-20294,Meera,Home Office,India,Tamil Nadu,Madurai,Office Supplies,Accessories,3688.26,1,0.14,792.82,South
+ORD-10295,2023-10-23,2023-10-24,Same Day,CUST-20295,Ali,Consumer,India,Tamil Nadu,Madurai,Furniture,Accessories,2113.47,3,0.08,801.93,South
+ORD-10296,2023-10-24,2023-10-25,Second Class,CUST-20296,John,Home Office,India,Delhi,New Delhi,Technology,Storage,5791.15,4,0.25,703.04,North
+ORD-10297,2023-10-25,2023-10-26,First Class,CUST-20297,Sara,Consumer,India,Karnataka,Bangalore,Office Supplies,Accessories,5319.37,5,0.27,845.15,South
+ORD-10298,2023-10-26,2023-10-27,First Class,CUST-20298,Sara,Corporate,India,Maharashtra,Mumbai,Furniture,Binders,5183.44,3,0.23,747.47,West
+ORD-10299,2023-10-27,2023-10-28,Standard Class,CUST-20299,Sara,Home Office,India,Maharashtra,Nagpur,Technology,Tables,6158.11,2,0.06,483.26,West
+ORD-10300,2023-10-28,2023-10-29,Standard Class,CUST-20300,Meera,Consumer,India,Tamil Nadu,Madurai,Technology,Tables,5114.94,2,0.03,84.57,South
+ORD-10301,2023-10-29,2023-10-30,Second Class,CUST-20301,Sara,Consumer,India,Tamil Nadu,Coimbatore,Office Supplies,Phones,1776.52,7,0.18,854.67,South
+ORD-10302,2023-10-30,2023-10-31,First Class,CUST-20302,John,Corporate,India,Tamil Nadu,Chennai,Furniture,Phones,4997.83,9,0.02,792.78,South
+ORD-10303,2023-10-31,2023-11-01,First Class,CUST-20303,Ali,Home Office,India,Delhi,New Delhi,Furniture,Phones,2292.38,2,0.2,314.74,North
+ORD-10304,2023-11-01,2023-11-02,Standard Class,CUST-20304,Meera,Corporate,India,Tamil Nadu,Coimbatore,Technology,Binders,1846.79,7,0.16,-249.2,South
+ORD-10305,2023-11-02,2023-11-03,First Class,CUST-20305,Ali,Consumer,India,Maharashtra,Nagpur,Technology,Accessories,696.42,7,0.2,530.11,West
+ORD-10306,2023-11-03,2023-11-04,First Class,CUST-20306,Meera,Consumer,India,Telangana,Hyderabad,Technology,Accessories,5259.39,7,0.18,-234.22,South
+ORD-10307,2023-11-04,2023-11-05,First Class,CUST-20307,Ali,Home Office,India,Delhi,New Delhi,Furniture,Storage,5034.81,3,0.13,904.16,North
+ORD-10308,2023-11-05,2023-11-06,Standard Class,CUST-20308,Priya,Consumer,India,Delhi,New Delhi,Office Supplies,Binders,1794.6,7,0.06,950.12,North
+ORD-10309,2023-11-06,2023-11-07,Second Class,CUST-20309,Ali,Home Office,India,Maharashtra,Mumbai,Office Supplies,Phones,5295.78,1,0.09,-53.66,West
+ORD-10310,2023-11-07,2023-11-08,Same Day,CUST-20310,Sara,Corporate,India,Telangana,Warangal,Furniture,Chairs,6441.32,1,0.16,579.31,South
+ORD-10311,2023-11-08,2023-11-09,Second Class,CUST-20311,Priya,Home Office,India,Tamil Nadu,Madurai,Office Supplies,Storage,934.6,5,0.2,-180.05,South
+ORD-10312,2023-11-09,2023-11-10,Same Day,CUST-20312,Ali,Home Office,India,Delhi,New Delhi,Technology,Chairs,1781.93,2,0.23,648.37,North
+ORD-10313,2023-11-10,2023-11-11,First Class,CUST-20313,Meera,Consumer,India,Delhi,New Delhi,Office Supplies,Accessories,5301.77,9,0.23,151.47,North
+ORD-10314,2023-11-11,2023-11-12,Second Class,CUST-20314,Meera,Consumer,India,Telangana,Warangal,Office Supplies,Storage,2066.65,7,0.29,585.37,South
+ORD-10315,2023-11-12,2023-11-13,Same Day,CUST-20315,Meera,Home Office,India,Maharashtra,Mumbai,Office Supplies,Storage,4447.72,4,0.09,184.74,West
+ORD-10316,2023-11-13,2023-11-14,Standard Class,CUST-20316,David,Consumer,India,Telangana,Warangal,Technology,Tables,751.92,4,0.02,-110.76,South
+ORD-10317,2023-11-14,2023-11-15,Standard Class,CUST-20317,John,Consumer,India,Tamil Nadu,Madurai,Furniture,Accessories,3274.98,2,0.1,227.94,South
+ORD-10318,2023-11-15,2023-11-16,Second Class,CUST-20318,Meera,Consumer,India,Maharashtra,Mumbai,Technology,Accessories,5225.82,5,0.22,-153.52,West
+ORD-10319,2023-11-16,2023-11-17,Second Class,CUST-20319,Priya,Home Office,India,Tamil Nadu,Madurai,Furniture,Binders,4868.29,4,0.13,449.95,South
+ORD-10320,2023-11-17,2023-11-18,First Class,CUST-20320,Meera,Consumer,India,Maharashtra,Mumbai,Furniture,Storage,5742.49,1,0.25,-246.76,West
+ORD-10321,2023-11-18,2023-11-19,Second Class,CUST-20321,David,Home Office,India,Karnataka,Mysore,Furniture,Accessories,6166.67,8,0.16,385.52,South
+ORD-10322,2023-11-19,2023-11-20,First Class,CUST-20322,Sara,Consumer,India,Karnataka,Bangalore,Office Supplies,Storage,5457.65,3,0.28,852.28,South
+ORD-10323,2023-11-20,2023-11-21,First Class,CUST-20323,Priya,Corporate,India,Telangana,Hyderabad,Office Supplies,Binders,4766.8,6,0.28,789.24,South
+ORD-10324,2023-11-21,2023-11-22,Standard Class,CUST-20324,David,Consumer,India,Maharashtra,Nagpur,Furniture,Binders,415.71,4,0.02,847.62,West
+ORD-10325,2023-11-22,2023-11-23,Standard Class,CUST-20325,Sara,Consumer,India,Telangana,Warangal,Furniture,Tables,3837.77,9,0.14,898.66,South
+ORD-10326,2023-11-23,2023-11-24,Same Day,CUST-20326,Priya,Home Office,India,Delhi,New Delhi,Office Supplies,Storage,456.34,7,0.18,-164.11,North
+ORD-10327,2023-11-24,2023-11-25,Standard Class,CUST-20327,Ali,Home Office,India,Tamil Nadu,Coimbatore,Technology,Accessories,5694.86,9,0.08,-132.63,South
+ORD-10328,2023-11-25,2023-11-26,Standard Class,CUST-20328,John,Consumer,India,Karnataka,Mysore,Furniture,Accessories,2380.93,3,0.12,424.11,South
+ORD-10329,2023-11-26,2023-11-27,Second Class,CUST-20329,John,Corporate,India,Tamil Nadu,Chennai,Technology,Storage,4024.52,1,0.2,862.16,South
+ORD-10330,2023-11-27,2023-11-28,Standard Class,CUST-20330,David,Consumer,India,Maharashtra,Pune,Office Supplies,Storage,2100.23,5,0.07,966.65,West
+ORD-10331,2023-11-28,2023-11-29,Same Day,CUST-20331,Sara,Consumer,India,Tamil Nadu,Coimbatore,Furniture,Storage,5521.0,3,0.18,-239.86,South
+ORD-10332,2023-11-29,2023-11-30,Second Class,CUST-20332,John,Corporate,India,Telangana,Warangal,Technology,Phones,6228.22,6,0.21,162.51,South
+ORD-10333,2023-11-30,2023-12-01,Same Day,CUST-20333,Sara,Home Office,India,Karnataka,Bangalore,Technology,Accessories,2910.77,8,0.03,-23.24,South
+ORD-10334,2023-12-01,2023-12-02,Standard Class,CUST-20334,Sara,Consumer,India,Maharashtra,Mumbai,Technology,Binders,6067.87,4,0.15,682.76,West
+ORD-10335,2023-12-02,2023-12-03,Same Day,CUST-20335,David,Home Office,India,Telangana,Warangal,Office Supplies,Accessories,2016.11,5,0.08,532.25,South
+ORD-10336,2023-12-03,2023-12-04,Second Class,CUST-20336,David,Home Office,India,Maharashtra,Mumbai,Office Supplies,Phones,3835.69,5,0.22,-144.15,West
+ORD-10337,2023-12-04,2023-12-05,First Class,CUST-20337,David,Corporate,India,Delhi,New Delhi,Technology,Storage,6039.58,4,0.06,328.58,North
+ORD-10338,2023-12-05,2023-12-06,Same Day,CUST-20338,John,Corporate,India,Tamil Nadu,Madurai,Technology,Tables,2415.99,4,0.27,591.07,South
+ORD-10339,2023-12-06,2023-12-07,Same Day,CUST-20339,David,Home Office,India,Tamil Nadu,Chennai,Office Supplies,Storage,6687.49,4,0.13,712.71,South
+ORD-10340,2023-12-07,2023-12-08,Second Class,CUST-20340,John,Consumer,India,Delhi,New Delhi,Technology,Storage,1028.78,4,0.06,-273.93,North
+ORD-10341,2023-12-08,2023-12-09,Second Class,CUST-20341,David,Home Office,India,Delhi,New Delhi,Technology,Phones,324.27,4,0.13,857.61,North
+ORD-10342,2023-12-09,2023-12-10,Same Day,CUST-20342,Meera,Consumer,India,Delhi,New Delhi,Office Supplies,Accessories,6348.12,5,0.12,440.07,North
+ORD-10343,2023-12-10,2023-12-11,Standard Class,CUST-20343,Sara,Consumer,India,Telangana,Hyderabad,Technology,Storage,666.81,2,0.13,755.48,South
+ORD-10344,2023-12-11,2023-12-12,Same Day,CUST-20344,David,Corporate,India,Delhi,New Delhi,Technology,Accessories,6944.85,2,0.18,750.32,North
+ORD-10345,2023-12-12,2023-12-13,Second Class,CUST-20345,Priya,Consumer,India,Telangana,Warangal,Technology,Chairs,6669.5,9,0.16,-53.19,South
+ORD-10346,2023-12-13,2023-12-14,First Class,CUST-20346,Sara,Consumer,India,Karnataka,Bangalore,Office Supplies,Binders,1131.74,2,0.04,-156.78,South
+ORD-10347,2023-12-14,2023-12-15,First Class,CUST-20347,Sara,Home Office,India,Telangana,Hyderabad,Technology,Accessories,3855.58,6,0.02,637.67,South
+ORD-10348,2023-12-15,2023-12-16,Standard Class,CUST-20348,David,Corporate,India,Maharashtra,Pune,Office Supplies,Tables,1457.46,2,0.22,-96.65,West
+ORD-10349,2023-12-16,2023-12-17,Same Day,CUST-20349,Ali,Consumer,India,Delhi,New Delhi,Office Supplies,Binders,3111.46,5,0.17,804.92,North
+ORD-10350,2023-12-17,2023-12-18,First Class,CUST-20350,David,Consumer,India,Karnataka,Mysore,Furniture,Tables,617.69,4,0.11,644.05,South
+ORD-10351,2023-12-18,2023-12-19,Same Day,CUST-20351,Sara,Corporate,India,Delhi,New Delhi,Furniture,Storage,1722.69,7,0.24,794.37,North
+ORD-10352,2023-12-19,2023-12-20,Second Class,CUST-20352,Priya,Home Office,India,Maharashtra,Nagpur,Technology,Binders,2670.26,7,0.12,88.72,West
+ORD-10353,2023-12-20,2023-12-21,First Class,CUST-20353,Sara,Corporate,India,Tamil Nadu,Madurai,Office Supplies,Accessories,3182.8,6,0.24,111.58,South
+ORD-10354,2023-12-21,2023-12-22,Standard Class,CUST-20354,Priya,Corporate,India,Tamil Nadu,Madurai,Furniture,Binders,6846.97,5,0.09,572.59,South
+ORD-10355,2023-12-22,2023-12-23,Second Class,CUST-20355,John,Consumer,India,Maharashtra,Pune,Technology,Storage,5693.49,1,0.02,-259.12,West
+ORD-10356,2023-12-23,2023-12-24,Standard Class,CUST-20356,Meera,Consumer,India,Tamil Nadu,Madurai,Furniture,Phones,5214.39,3,0.28,644.45,South
+ORD-10357,2023-12-24,2023-12-25,Second Class,CUST-20357,Sara,Home Office,India,Delhi,New Delhi,Furniture,Tables,3851.88,9,0.12,786.52,North
+ORD-10358,2023-12-25,2023-12-26,First Class,CUST-20358,David,Consumer,India,Tamil Nadu,Chennai,Office Supplies,Storage,5911.98,1,0.24,239.71,South
+ORD-10359,2023-12-26,2023-12-27,Standard Class,CUST-20359,John,Consumer,India,Tamil Nadu,Coimbatore,Office Supplies,Phones,2507.4,5,0.08,694.34,South
+ORD-10360,2023-12-27,2023-12-28,Standard Class,CUST-20360,Meera,Corporate,India,Maharashtra,Pune,Furniture,Binders,5020.51,2,0.19,-73.01,West
+ORD-10361,2023-12-28,2023-12-29,Second Class,CUST-20361,David,Consumer,India,Karnataka,Mysore,Furniture,Binders,6957.73,4,0.26,118.94,South
+ORD-10362,2023-12-29,2023-12-30,Standard Class,CUST-20362,Ali,Home Office,India,Maharashtra,Mumbai,Office Supplies,Storage,2339.48,1,0.01,966.6,West
+ORD-10363,2023-12-30,2023-12-31,Second Class,CUST-20363,David,Corporate,India,Maharashtra,Nagpur,Technology,Accessories,4783.32,3,0.25,982.23,West
+ORD-10364,2023-12-31,2024-01-01,Second Class,CUST-20364,Priya,Home Office,India,Maharashtra,Pune,Office Supplies,Binders,5941.34,7,0.17,366.39,West
+ORD-10365,2024-01-01,2024-01-02,Second Class,CUST-20365,Priya,Corporate,India,Maharashtra,Nagpur,Furniture,Accessories,6427.49,3,0.18,914.55,West
+ORD-10366,2024-01-02,2024-01-03,Second Class,CUST-20366,Ali,Consumer,India,Delhi,New Delhi,Technology,Accessories,5081.94,4,0.16,379.55,North
+ORD-10367,2024-01-03,2024-01-04,First Class,CUST-20367,John,Corporate,India,Maharashtra,Nagpur,Furniture,Accessories,2128.53,2,0.26,79.06,West
+ORD-10368,2024-01-04,2024-01-05,Second Class,CUST-20368,Meera,Corporate,India,Telangana,Warangal,Technology,Chairs,2418.72,3,0.01,46.97,South
+ORD-10369,2024-01-05,2024-01-06,Same Day,CUST-20369,David,Consumer,India,Tamil Nadu,Coimbatore,Furniture,Phones,341.15,9,0.08,908.36,South
+ORD-10370,2024-01-06,2024-01-07,Standard Class,CUST-20370,Priya,Consumer,India,Tamil Nadu,Chennai,Technology,Phones,5374.02,3,0.26,-75.82,South
+ORD-10371,2024-01-07,2024-01-08,Same Day,CUST-20371,John,Home Office,India,Tamil Nadu,Chennai,Technology,Binders,490.63,5,0.23,453.52,South
+ORD-10372,2024-01-08,2024-01-09,First Class,CUST-20372,Ali,Home Office,India,Telangana,Warangal,Furniture,Binders,6079.64,2,0.01,422.18,South
+ORD-10373,2024-01-09,2024-01-10,Same Day,CUST-20373,Sara,Consumer,India,Tamil Nadu,Madurai,Technology,Accessories,1006.89,4,0.16,661.51,South
+ORD-10374,2024-01-10,2024-01-11,Standard Class,CUST-20374,Priya,Consumer,India,Delhi,New Delhi,Office Supplies,Chairs,1368.76,7,0.16,349.02,North
+ORD-10375,2024-01-11,2024-01-12,Same Day,CUST-20375,Ali,Consumer,India,Karnataka,Mysore,Furniture,Accessories,3440.38,7,0.12,53.97,South
+ORD-10376,2024-01-12,2024-01-13,First Class,CUST-20376,David,Corporate,India,Delhi,New Delhi,Office Supplies,Chairs,5217.59,3,0.09,-79.78,North
+ORD-10377,2024-01-13,2024-01-14,Second Class,CUST-20377,Meera,Corporate,India,Delhi,New Delhi,Furniture,Accessories,1145.21,5,0.2,507.06,North
+ORD-10378,2024-01-14,2024-01-15,Same Day,CUST-20378,Priya,Corporate,India,Maharashtra,Pune,Technology,Tables,3192.48,1,0.06,634.69,West
+ORD-10379,2024-01-15,2024-01-16,First Class,CUST-20379,Priya,Consumer,India,Delhi,New Delhi,Technology,Tables,3483.39,1,0.24,440.38,North
+ORD-10380,2024-01-16,2024-01-17,First Class,CUST-20380,David,Home Office,India,Delhi,New Delhi,Technology,Storage,1643.54,5,0.24,659.86,North
+ORD-10381,2024-01-17,2024-01-18,Standard Class,CUST-20381,Sara,Consumer,India,Karnataka,Mysore,Furniture,Accessories,985.8,9,0.12,-116.02,South
+ORD-10382,2024-01-18,2024-01-19,Standard Class,CUST-20382,John,Corporate,India,Karnataka,Mysore,Office Supplies,Binders,5887.66,1,0.09,847.21,South
+ORD-10383,2024-01-19,2024-01-20,Same Day,CUST-20383,Meera,Corporate,India,Karnataka,Mysore,Office Supplies,Phones,3616.77,1,0.09,457.11,South
+ORD-10384,2024-01-20,2024-01-21,Second Class,CUST-20384,Priya,Consumer,India,Delhi,New Delhi,Furniture,Storage,297.79,4,0.14,-135.1,North
+ORD-10385,2024-01-21,2024-01-22,First Class,CUST-20385,Meera,Consumer,India,Maharashtra,Mumbai,Furniture,Binders,5660.27,4,0.22,300.5,West
+ORD-10386,2024-01-22,2024-01-23,Same Day,CUST-20386,Priya,Corporate,India,Delhi,New Delhi,Office Supplies,Tables,6869.4,2,0.11,798.23,North
+ORD-10387,2024-01-23,2024-01-24,First Class,CUST-20387,Meera,Corporate,India,Telangana,Warangal,Office Supplies,Accessories,4320.3,9,0.18,866.83,South
+ORD-10388,2024-01-24,2024-01-25,First Class,CUST-20388,Ali,Corporate,India,Tamil Nadu,Chennai,Office Supplies,Storage,3625.22,9,0.11,44.04,South
+ORD-10389,2024-01-25,2024-01-26,Second Class,CUST-20389,Priya,Consumer,India,Tamil Nadu,Chennai,Office Supplies,Accessories,6173.23,2,0.09,624.65,South
+ORD-10390,2024-01-26,2024-01-27,Second Class,CUST-20390,Meera,Corporate,India,Delhi,New Delhi,Furniture,Tables,6677.11,9,0.01,-170.02,North
+ORD-10391,2024-01-27,2024-01-28,Same Day,CUST-20391,John,Corporate,India,Maharashtra,Mumbai,Furniture,Storage,5330.85,6,0.0,-256.39,West
+ORD-10392,2024-01-28,2024-01-29,Second Class,CUST-20392,Ali,Home Office,India,Maharashtra,Pune,Technology,Tables,3229.08,8,0.07,428.52,West
+ORD-10393,2024-01-29,2024-01-30,Second Class,CUST-20393,Ali,Consumer,India,Telangana,Hyderabad,Office Supplies,Chairs,4227.11,4,0.12,603.28,South
+ORD-10394,2024-01-30,2024-01-31,Same Day,CUST-20394,John,Home Office,India,Karnataka,Bangalore,Technology,Tables,4966.36,2,0.26,734.52,South
+ORD-10395,2024-01-31,2024-02-01,Second Class,CUST-20395,Meera,Home Office,India,Maharashtra,Nagpur,Furniture,Accessories,1521.06,2,0.24,142.28,West
+ORD-10396,2024-02-01,2024-02-02,Standard Class,CUST-20396,David,Corporate,India,Tamil Nadu,Coimbatore,Furniture,Phones,3240.97,9,0.08,-291.52,South
+ORD-10397,2024-02-02,2024-02-03,First Class,CUST-20397,John,Consumer,India,Karnataka,Mysore,Technology,Tables,5842.78,1,0.07,323.38,South
+ORD-10398,2024-02-03,2024-02-04,First Class,CUST-20398,Meera,Corporate,India,Karnataka,Bangalore,Office Supplies,Binders,4652.13,7,0.07,-279.39,South
+ORD-10399,2024-02-04,2024-02-05,First Class,CUST-20399,John,Consumer,India,Maharashtra,Mumbai,Office Supplies,Phones,2996.19,3,0.1,-180.42,West
+ORD-10400,2024-02-05,2024-02-06,First Class,CUST-20400,John,Home Office,India,Tamil Nadu,Coimbatore,Office Supplies,Chairs,4710.87,3,0.15,124.7,South
+ORD-10401,2024-02-06,2024-02-07,Same Day,CUST-20401,Priya,Consumer,India,Tamil Nadu,Coimbatore,Office Supplies,Storage,1003.91,2,0.13,268.32,South
+ORD-10402,2024-02-07,2024-02-08,First Class,CUST-20402,Meera,Corporate,India,Tamil Nadu,Madurai,Technology,Storage,2930.18,6,0.07,63.31,South
+ORD-10403,2024-02-08,2024-02-09,First Class,CUST-20403,David,Corporate,India,Maharashtra,Pune,Technology,Phones,5593.27,2,0.04,456.42,West
+ORD-10404,2024-02-09,2024-02-10,First Class,CUST-20404,Priya,Corporate,India,Tamil Nadu,Coimbatore,Furniture,Storage,1699.46,4,0.0,-228.05,South
+ORD-10405,2024-02-10,2024-02-11,First Class,CUST-20405,John,Consumer,India,Telangana,Hyderabad,Office Supplies,Tables,1464.54,9,0.05,-112.05,South
+ORD-10406,2024-02-11,2024-02-12,Standard Class,CUST-20406,Sara,Home Office,India,Tamil Nadu,Chennai,Office Supplies,Phones,6665.57,9,0.21,603.84,South
+ORD-10407,2024-02-12,2024-02-13,First Class,CUST-20407,John,Home Office,India,Tamil Nadu,Coimbatore,Office Supplies,Accessories,1627.3,6,0.07,-115.22,South
+ORD-10408,2024-02-13,2024-02-14,Standard Class,CUST-20408,John,Consumer,India,Tamil Nadu,Madurai,Technology,Tables,1974.25,4,0.14,531.71,South
+ORD-10409,2024-02-14,2024-02-15,Same Day,CUST-20409,Meera,Corporate,India,Tamil Nadu,Chennai,Office Supplies,Tables,6793.39,7,0.18,-228.91,South
+ORD-10410,2024-02-15,2024-02-16,Second Class,CUST-20410,Meera,Home Office,India,Delhi,New Delhi,Technology,Tables,5196.02,1,0.27,229.6,North
+ORD-10411,2024-02-16,2024-02-17,First Class,CUST-20411,Priya,Corporate,India,Tamil Nadu,Chennai,Office Supplies,Accessories,4957.26,4,0.27,-69.37,South
+ORD-10412,2024-02-17,2024-02-18,Second Class,CUST-20412,David,Consumer,India,Maharashtra,Pune,Office Supplies,Chairs,5999.9,5,0.22,-157.47,West
+ORD-10413,2024-02-18,2024-02-19,Second Class,CUST-20413,Priya,Corporate,India,Telangana,Hyderabad,Furniture,Binders,987.6,8,0.01,437.14,South
+ORD-10414,2024-02-19,2024-02-20,Same Day,CUST-20414,Ali,Home Office,India,Maharashtra,Mumbai,Office Supplies,Storage,5000.5,2,0.17,906.84,West
+ORD-10415,2024-02-20,2024-02-21,Second Class,CUST-20415,John,Home Office,India,Maharashtra,Pune,Office Supplies,Phones,3625.08,5,0.24,-228.78,West
+ORD-10416,2024-02-21,2024-02-22,Standard Class,CUST-20416,Sara,Corporate,India,Karnataka,Bangalore,Furniture,Chairs,5838.22,6,0.01,248.02,South
+ORD-10417,2024-02-22,2024-02-23,Second Class,CUST-20417,John,Consumer,India,Tamil Nadu,Chennai,Technology,Phones,3655.36,5,0.16,619.8,South
+ORD-10418,2024-02-23,2024-02-24,Second Class,CUST-20418,John,Corporate,India,Tamil Nadu,Coimbatore,Technology,Storage,4417.64,9,0.26,301.49,South
+ORD-10419,2024-02-24,2024-02-25,Second Class,CUST-20419,Priya,Consumer,India,Tamil Nadu,Madurai,Office Supplies,Accessories,3448.65,1,0.14,748.44,South
+ORD-10420,2024-02-25,2024-02-26,First Class,CUST-20420,Sara,Corporate,India,Maharashtra,Mumbai,Technology,Tables,3451.48,3,0.0,-66.46,West
+ORD-10421,2024-02-26,2024-02-27,First Class,CUST-20421,Sara,Home Office,India,Delhi,New Delhi,Office Supplies,Tables,5422.2,2,0.0,947.47,North
+ORD-10422,2024-02-27,2024-02-28,Standard Class,CUST-20422,Sara,Consumer,India,Tamil Nadu,Chennai,Furniture,Accessories,4474.25,3,0.12,200.71,South
+ORD-10423,2024-02-28,2024-02-29,Standard Class,CUST-20423,Priya,Consumer,India,Karnataka,Mysore,Furniture,Chairs,4506.19,9,0.05,144.04,South
+ORD-10424,2024-02-29,2024-03-01,First Class,CUST-20424,John,Consumer,India,Karnataka,Mysore,Office Supplies,Chairs,3261.92,9,0.2,836.99,South
+ORD-10425,2024-03-01,2024-03-02,Standard Class,CUST-20425,Priya,Home Office,India,Karnataka,Mysore,Furniture,Phones,3811.54,2,0.21,433.03,South
+ORD-10426,2024-03-02,2024-03-03,First Class,CUST-20426,Meera,Corporate,India,Telangana,Hyderabad,Furniture,Accessories,5270.88,3,0.05,371.38,South
+ORD-10427,2024-03-03,2024-03-04,Same Day,CUST-20427,Meera,Home Office,India,Karnataka,Mysore,Office Supplies,Chairs,5816.4,4,0.27,645.07,South
+ORD-10428,2024-03-04,2024-03-05,Second Class,CUST-20428,Priya,Consumer,India,Tamil Nadu,Coimbatore,Office Supplies,Accessories,4936.62,9,0.13,453.78,South
+ORD-10429,2024-03-05,2024-03-06,Second Class,CUST-20429,Sara,Corporate,India,Delhi,New Delhi,Furniture,Storage,6483.7,3,0.04,-88.73,North
+ORD-10430,2024-03-06,2024-03-07,Standard Class,CUST-20430,John,Home Office,India,Maharashtra,Pune,Technology,Tables,5778.2,7,0.23,576.46,West
+ORD-10431,2024-03-07,2024-03-08,First Class,CUST-20431,Priya,Consumer,India,Telangana,Hyderabad,Technology,Tables,4020.67,3,0.24,-126.49,South
+ORD-10432,2024-03-08,2024-03-09,First Class,CUST-20432,Priya,Consumer,India,Tamil Nadu,Madurai,Office Supplies,Tables,4765.56,7,0.19,747.62,South
+ORD-10433,2024-03-09,2024-03-10,Standard Class,CUST-20433,Priya,Home Office,India,Maharashtra,Mumbai,Office Supplies,Accessories,6498.9,7,0.26,986.66,West
+ORD-10434,2024-03-10,2024-03-11,First Class,CUST-20434,Ali,Home Office,India,Karnataka,Bangalore,Technology,Accessories,4410.34,9,0.22,190.6,South
+ORD-10435,2024-03-11,2024-03-12,Same Day,CUST-20435,Meera,Home Office,India,Telangana,Hyderabad,Furniture,Phones,5808.69,2,0.26,278.18,South
+ORD-10436,2024-03-12,2024-03-13,Second Class,CUST-20436,Sara,Consumer,India,Delhi,New Delhi,Technology,Tables,4883.91,6,0.13,-239.64,North
+ORD-10437,2024-03-13,2024-03-14,Standard Class,CUST-20437,David,Home Office,India,Karnataka,Mysore,Technology,Phones,3953.17,9,0.22,-282.15,South
+ORD-10438,2024-03-14,2024-03-15,Standard Class,CUST-20438,Sara,Consumer,India,Karnataka,Mysore,Technology,Tables,1844.5,2,0.3,897.85,South
+ORD-10439,2024-03-15,2024-03-16,First Class,CUST-20439,David,Home Office,India,Karnataka,Mysore,Technology,Phones,3096.78,2,0.22,-132.79,South
+ORD-10440,2024-03-16,2024-03-17,Standard Class,CUST-20440,Ali,Consumer,India,Telangana,Hyderabad,Office Supplies,Phones,6780.65,5,0.03,279.51,South
+ORD-10441,2024-03-17,2024-03-18,Same Day,CUST-20441,Priya,Consumer,India,Karnataka,Mysore,Office Supplies,Storage,4672.8,8,0.16,759.96,South
+ORD-10442,2024-03-18,2024-03-19,First Class,CUST-20442,Ali,Corporate,India,Tamil Nadu,Coimbatore,Furniture,Phones,4037.89,9,0.18,856.11,South
+ORD-10443,2024-03-19,2024-03-20,First Class,CUST-20443,Ali,Home Office,India,Tamil Nadu,Madurai,Furniture,Accessories,6544.11,2,0.05,375.22,South
+ORD-10444,2024-03-20,2024-03-21,First Class,CUST-20444,John,Home Office,India,Delhi,New Delhi,Furniture,Phones,4188.28,5,0.29,434.54,North
+ORD-10445,2024-03-21,2024-03-22,First Class,CUST-20445,Meera,Consumer,India,Karnataka,Bangalore,Furniture,Tables,3777.36,7,0.05,570.59,South
+ORD-10446,2024-03-22,2024-03-23,Same Day,CUST-20446,David,Consumer,India,Tamil Nadu,Chennai,Technology,Phones,5363.31,6,0.05,949.8,South
+ORD-10447,2024-03-23,2024-03-24,First Class,CUST-20447,Priya,Consumer,India,Maharashtra,Pune,Office Supplies,Chairs,5046.13,6,0.27,483.47,West
+ORD-10448,2024-03-24,2024-03-25,Standard Class,CUST-20448,David,Corporate,India,Tamil Nadu,Coimbatore,Office Supplies,Binders,1513.49,7,0.14,427.32,South
+ORD-10449,2024-03-25,2024-03-26,Same Day,CUST-20449,Sara,Corporate,India,Tamil Nadu,Chennai,Furniture,Tables,3404.9,3,0.02,-281.11,South
+ORD-10450,2024-03-26,2024-03-27,Second Class,CUST-20450,David,Consumer,India,Karnataka,Mysore,Furniture,Chairs,3413.11,3,0.18,-194.77,South
+ORD-10451,2024-03-27,2024-03-28,Second Class,CUST-20451,Sara,Home Office,India,Maharashtra,Pune,Technology,Tables,2771.93,9,0.18,450.32,West
+ORD-10452,2024-03-28,2024-03-29,Standard Class,CUST-20452,Meera,Home Office,India,Maharashtra,Pune,Technology,Accessories,3717.6,8,0.02,917.11,West
+ORD-10453,2024-03-29,2024-03-30,Standard Class,CUST-20453,Sara,Corporate,India,Telangana,Hyderabad,Furniture,Binders,3009.13,5,0.29,826.7,South
+ORD-10454,2024-03-30,2024-03-31,Same Day,CUST-20454,David,Corporate,India,Telangana,Hyderabad,Office Supplies,Binders,1555.55,6,0.16,977.35,South
+ORD-10455,2024-03-31,2024-04-01,Second Class,CUST-20455,David,Consumer,India,Tamil Nadu,Madurai,Office Supplies,Accessories,3004.09,1,0.17,386.18,South
+ORD-10456,2024-04-01,2024-04-02,Second Class,CUST-20456,Sara,Home Office,India,Telangana,Warangal,Office Supplies,Binders,691.48,1,0.16,724.31,South
+ORD-10457,2024-04-02,2024-04-03,Second Class,CUST-20457,Ali,Consumer,India,Delhi,New Delhi,Furniture,Accessories,4115.34,4,0.18,792.52,North
+ORD-10458,2024-04-03,2024-04-04,Second Class,CUST-20458,Meera,Corporate,India,Delhi,New Delhi,Office Supplies,Chairs,6004.85,2,0.08,542.44,North
+ORD-10459,2024-04-04,2024-04-05,Second Class,CUST-20459,John,Home Office,India,Tamil Nadu,Madurai,Technology,Storage,5131.95,7,0.09,140.37,South
+ORD-10460,2024-04-05,2024-04-06,First Class,CUST-20460,Priya,Home Office,India,Telangana,Hyderabad,Technology,Tables,2650.68,2,0.15,310.97,South
+ORD-10461,2024-04-06,2024-04-07,Standard Class,CUST-20461,David,Corporate,India,Maharashtra,Pune,Furniture,Accessories,792.08,2,0.24,815.29,West
+ORD-10462,2024-04-07,2024-04-08,First Class,CUST-20462,Priya,Consumer,India,Maharashtra,Pune,Technology,Tables,1574.62,5,0.01,88.11,West
+ORD-10463,2024-04-08,2024-04-09,Second Class,CUST-20463,John,Consumer,India,Telangana,Hyderabad,Furniture,Chairs,3909.33,4,0.18,900.87,South
+ORD-10464,2024-04-09,2024-04-10,Same Day,CUST-20464,Priya,Home Office,India,Maharashtra,Mumbai,Office Supplies,Storage,1607.99,8,0.24,-1.25,West
+ORD-10465,2024-04-10,2024-04-11,Same Day,CUST-20465,John,Corporate,India,Karnataka,Mysore,Office Supplies,Chairs,3899.02,4,0.05,674.37,South
+ORD-10466,2024-04-11,2024-04-12,Second Class,CUST-20466,Sara,Home Office,India,Karnataka,Bangalore,Office Supplies,Binders,1774.87,6,0.0,519.73,South
+ORD-10467,2024-04-12,2024-04-13,Second Class,CUST-20467,Ali,Corporate,India,Maharashtra,Pune,Technology,Tables,5972.68,5,0.09,674.48,West
+ORD-10468,2024-04-13,2024-04-14,Same Day,CUST-20468,David,Consumer,India,Tamil Nadu,Chennai,Furniture,Storage,2901.45,2,0.18,268.55,South
+ORD-10469,2024-04-14,2024-04-15,First Class,CUST-20469,John,Corporate,India,Tamil Nadu,Coimbatore,Office Supplies,Binders,1869.74,8,0.04,912.43,South
+ORD-10470,2024-04-15,2024-04-16,First Class,CUST-20470,Priya,Consumer,India,Karnataka,Bangalore,Furniture,Storage,5723.82,2,0.13,522.21,South
+ORD-10471,2024-04-16,2024-04-17,Second Class,CUST-20471,David,Corporate,India,Karnataka,Bangalore,Office Supplies,Binders,2531.3,9,0.17,74.78,South
+ORD-10472,2024-04-17,2024-04-18,First Class,CUST-20472,Ali,Home Office,India,Telangana,Hyderabad,Technology,Chairs,958.12,9,0.18,529.99,South
+ORD-10473,2024-04-18,2024-04-19,Same Day,CUST-20473,Sara,Consumer,India,Karnataka,Bangalore,Technology,Accessories,4078.78,3,0.08,72.86,South
+ORD-10474,2024-04-19,2024-04-20,First Class,CUST-20474,David,Home Office,India,Tamil Nadu,Coimbatore,Furniture,Tables,4154.64,4,0.12,81.72,South
+ORD-10475,2024-04-20,2024-04-21,Second Class,CUST-20475,John,Home Office,India,Telangana,Hyderabad,Technology,Phones,5059.93,8,0.23,219.48,South
+ORD-10476,2024-04-21,2024-04-22,Same Day,CUST-20476,Ali,Consumer,India,Maharashtra,Mumbai,Technology,Phones,1833.49,9,0.28,808.16,West
+ORD-10477,2024-04-22,2024-04-23,First Class,CUST-20477,Priya,Consumer,India,Karnataka,Mysore,Furniture,Chairs,3217.65,3,0.26,350.39,South
+ORD-10478,2024-04-23,2024-04-24,Standard Class,CUST-20478,Ali,Home Office,India,Tamil Nadu,Chennai,Office Supplies,Tables,2120.1,5,0.17,582.57,South
+ORD-10479,2024-04-24,2024-04-25,Same Day,CUST-20479,Ali,Home Office,India,Telangana,Hyderabad,Technology,Tables,750.49,8,0.12,209.56,South
+ORD-10480,2024-04-25,2024-04-26,Same Day,CUST-20480,Meera,Home Office,India,Delhi,New Delhi,Furniture,Chairs,6160.97,3,0.1,42.69,North
+ORD-10481,2024-04-26,2024-04-27,Standard Class,CUST-20481,Ali,Home Office,India,Karnataka,Mysore,Technology,Tables,5156.31,7,0.04,941.03,South
+ORD-10482,2024-04-27,2024-04-28,Standard Class,CUST-20482,Ali,Consumer,India,Karnataka,Bangalore,Technology,Accessories,2249.95,8,0.03,484.66,South
+ORD-10483,2024-04-28,2024-04-29,Same Day,CUST-20483,David,Consumer,India,Karnataka,Mysore,Technology,Chairs,4275.74,3,0.21,914.14,South
+ORD-10484,2024-04-29,2024-04-30,Standard Class,CUST-20484,Priya,Home Office,India,Telangana,Warangal,Technology,Accessories,1568.59,2,0.08,-35.56,South
+ORD-10485,2024-04-30,2024-05-01,Second Class,CUST-20485,David,Corporate,India,Telangana,Hyderabad,Furniture,Tables,6253.61,7,0.08,-109.04,South
+ORD-10486,2024-05-01,2024-05-02,Second Class,CUST-20486,David,Corporate,India,Telangana,Hyderabad,Furniture,Chairs,981.36,9,0.3,812.57,South
+ORD-10487,2024-05-02,2024-05-03,Second Class,CUST-20487,John,Consumer,India,Telangana,Hyderabad,Furniture,Tables,226.09,1,0.06,585.19,South
+ORD-10488,2024-05-03,2024-05-04,Same Day,CUST-20488,David,Home Office,India,Delhi,New Delhi,Technology,Chairs,3613.66,3,0.04,-57.45,North
+ORD-10489,2024-05-04,2024-05-05,Standard Class,CUST-20489,Meera,Home Office,India,Maharashtra,Pune,Technology,Tables,4165.27,5,0.03,50.17,West
+ORD-10490,2024-05-05,2024-05-06,Standard Class,CUST-20490,Meera,Consumer,India,Karnataka,Mysore,Technology,Accessories,4136.96,3,0.17,740.86,South
+ORD-10491,2024-05-06,2024-05-07,First Class,CUST-20491,John,Corporate,India,Telangana,Hyderabad,Furniture,Accessories,570.68,1,0.19,290.03,South
+ORD-10492,2024-05-07,2024-05-08,First Class,CUST-20492,Sara,Corporate,India,Tamil Nadu,Madurai,Technology,Tables,2335.5,7,0.11,571.7,South
+ORD-10493,2024-05-08,2024-05-09,Standard Class,CUST-20493,Priya,Corporate,India,Maharashtra,Pune,Office Supplies,Chairs,3594.55,7,0.16,113.86,West
+ORD-10494,2024-05-09,2024-05-10,Standard Class,CUST-20494,Priya,Consumer,India,Tamil Nadu,Chennai,Technology,Phones,1672.74,8,0.24,195.6,South
+ORD-10495,2024-05-10,2024-05-11,Standard Class,CUST-20495,David,Corporate,India,Karnataka,Mysore,Office Supplies,Accessories,6133.86,5,0.25,987.93,South
+ORD-10496,2024-05-11,2024-05-12,Same Day,CUST-20496,David,Consumer,India,Delhi,New Delhi,Technology,Accessories,792.34,5,0.29,21.9,North
+ORD-10497,2024-05-12,2024-05-13,Standard Class,CUST-20497,Sara,Consumer,India,Tamil Nadu,Chennai,Furniture,Binders,3514.21,5,0.25,358.39,South
+ORD-10498,2024-05-13,2024-05-14,First Class,CUST-20498,David,Home Office,India,Maharashtra,Mumbai,Technology,Phones,4901.63,1,0.17,797.72,West
+ORD-10499,2024-05-14,2024-05-15,Same Day,CUST-20499,Priya,Corporate,India,Delhi,New Delhi,Office Supplies,Tables,1979.91,5,0.05,10.99,North
+ORD-10500,2024-05-15,2024-05-16,Standard Class,CUST-20500,Ali,Consumer,India,Karnataka,Bangalore,Office Supplies,Chairs,4444.84,6,0.03,239.78,South
+ORD-10501,2024-05-16,2024-05-17,First Class,CUST-20501,Meera,Corporate,India,Tamil Nadu,Chennai,Technology,Binders,5839.82,1,0.02,499.62,South
+ORD-10502,2024-05-17,2024-05-18,Same Day,CUST-20502,Ali,Corporate,India,Karnataka,Bangalore,Office Supplies,Tables,1494.29,7,0.2,325.54,South
+ORD-10503,2024-05-18,2024-05-19,Standard Class,CUST-20503,Ali,Home Office,India,Delhi,New Delhi,Office Supplies,Storage,6437.1,1,0.24,297.35,North
+ORD-10504,2024-05-19,2024-05-20,Standard Class,CUST-20504,Priya,Corporate,India,Karnataka,Bangalore,Furniture,Accessories,3964.2,2,0.15,171.26,South
+ORD-10505,2024-05-20,2024-05-21,Standard Class,CUST-20505,Ali,Home Office,India,Tamil Nadu,Madurai,Technology,Storage,2234.78,2,0.02,462.64,South
+ORD-10506,2024-05-21,2024-05-22,Same Day,CUST-20506,Sara,Consumer,India,Karnataka,Bangalore,Technology,Accessories,3129.84,5,0.16,511.68,South
+ORD-10507,2024-05-22,2024-05-23,First Class,CUST-20507,John,Corporate,India,Maharashtra,Pune,Technology,Accessories,2322.9,7,0.28,549.28,West
+ORD-10508,2024-05-23,2024-05-24,First Class,CUST-20508,David,Consumer,India,Delhi,New Delhi,Office Supplies,Storage,5130.76,1,0.18,-208.52,North
+ORD-10509,2024-05-24,2024-05-25,Second Class,CUST-20509,John,Corporate,India,Karnataka,Mysore,Technology,Storage,5614.84,1,0.24,520.34,South
+ORD-10510,2024-05-25,2024-05-26,Standard Class,CUST-20510,Meera,Consumer,India,Karnataka,Bangalore,Technology,Tables,5863.97,1,0.24,939.21,South
+ORD-10511,2024-05-26,2024-05-27,Second Class,CUST-20511,David,Corporate,India,Telangana,Hyderabad,Furniture,Binders,6903.22,6,0.28,403.28,South
+ORD-10512,2024-05-27,2024-05-28,Second Class,CUST-20512,Ali,Corporate,India,Maharashtra,Mumbai,Furniture,Binders,5580.73,2,0.23,629.85,West
+ORD-10513,2024-05-28,2024-05-29,First Class,CUST-20513,Meera,Corporate,India,Tamil Nadu,Chennai,Furniture,Storage,4289.41,1,0.22,423.75,South
+ORD-10514,2024-05-29,2024-05-30,Same Day,CUST-20514,David,Corporate,India,Maharashtra,Pune,Office Supplies,Tables,2506.7,6,0.07,811.16,West
+ORD-10515,2024-05-30,2024-05-31,Same Day,CUST-20515,Sara,Corporate,India,Delhi,New Delhi,Technology,Binders,3903.25,2,0.02,908.46,North
+ORD-10516,2024-05-31,2024-06-01,First Class,CUST-20516,Sara,Corporate,India,Telangana,Warangal,Furniture,Tables,479.26,6,0.16,-60.51,South
+ORD-10517,2024-06-01,2024-06-02,Same Day,CUST-20517,Sara,Corporate,India,Tamil Nadu,Madurai,Furniture,Tables,5264.81,8,0.04,267.92,South
+ORD-10518,2024-06-02,2024-06-03,Second Class,CUST-20518,Sara,Corporate,India,Telangana,Hyderabad,Furniture,Accessories,3232.5,2,0.29,210.1,South
+ORD-10519,2024-06-03,2024-06-04,Standard Class,CUST-20519,Ali,Corporate,India,Maharashtra,Nagpur,Technology,Binders,336.16,9,0.09,226.78,West
+ORD-10520,2024-06-04,2024-06-05,First Class,CUST-20520,John,Consumer,India,Karnataka,Mysore,Technology,Binders,625.05,8,0.26,-136.82,South
+ORD-10521,2024-06-05,2024-06-06,Standard Class,CUST-20521,David,Home Office,India,Delhi,New Delhi,Technology,Accessories,2834.77,1,0.12,757.7,North
+ORD-10522,2024-06-06,2024-06-07,Same Day,CUST-20522,Ali,Corporate,India,Telangana,Warangal,Office Supplies,Storage,4167.27,7,0.1,-253.5,South
+ORD-10523,2024-06-07,2024-06-08,Standard Class,CUST-20523,Sara,Home Office,India,Tamil Nadu,Coimbatore,Office Supplies,Accessories,3356.59,6,0.28,386.69,South
+ORD-10524,2024-06-08,2024-06-09,Same Day,CUST-20524,John,Corporate,India,Telangana,Warangal,Furniture,Binders,4410.59,6,0.11,560.44,South
+ORD-10525,2024-06-09,2024-06-10,Same Day,CUST-20525,Meera,Corporate,India,Tamil Nadu,Coimbatore,Technology,Binders,3466.0,6,0.12,-30.29,South
+ORD-10526,2024-06-10,2024-06-11,Second Class,CUST-20526,Meera,Consumer,India,Telangana,Warangal,Furniture,Storage,4699.59,6,0.03,877.61,South
+ORD-10527,2024-06-11,2024-06-12,Same Day,CUST-20527,Meera,Consumer,India,Karnataka,Bangalore,Technology,Accessories,1690.06,7,0.2,790.11,South
+ORD-10528,2024-06-12,2024-06-13,Second Class,CUST-20528,Sara,Home Office,India,Maharashtra,Mumbai,Technology,Chairs,967.33,3,0.09,312.41,West
+ORD-10529,2024-06-13,2024-06-14,Second Class,CUST-20529,Meera,Consumer,India,Karnataka,Mysore,Technology,Chairs,4255.75,6,0.18,234.49,South
+ORD-10530,2024-06-14,2024-06-15,Second Class,CUST-20530,Priya,Consumer,India,Delhi,New Delhi,Office Supplies,Storage,3495.89,3,0.18,7.54,North
+ORD-10531,2024-06-15,2024-06-16,First Class,CUST-20531,David,Home Office,India,Telangana,Warangal,Office Supplies,Accessories,382.7,7,0.22,648.99,South
+ORD-10532,2024-06-16,2024-06-17,First Class,CUST-20532,David,Consumer,India,Tamil Nadu,Chennai,Technology,Accessories,2787.28,7,0.22,-128.73,South
+ORD-10533,2024-06-17,2024-06-18,Same Day,CUST-20533,Sara,Corporate,India,Delhi,New Delhi,Furniture,Tables,921.65,8,0.15,584.31,North
+ORD-10534,2024-06-18,2024-06-19,Second Class,CUST-20534,Priya,Home Office,India,Tamil Nadu,Coimbatore,Technology,Binders,3813.23,2,0.1,795.19,South
+ORD-10535,2024-06-19,2024-06-20,First Class,CUST-20535,Ali,Home Office,India,Maharashtra,Pune,Technology,Phones,2891.29,9,0.25,-2.99,West
+ORD-10536,2024-06-20,2024-06-21,Second Class,CUST-20536,Ali,Corporate,India,Telangana,Hyderabad,Furniture,Storage,4369.43,5,0.09,826.36,South
+ORD-10537,2024-06-21,2024-06-22,Standard Class,CUST-20537,Meera,Consumer,India,Delhi,New Delhi,Technology,Phones,5678.1,9,0.15,-256.68,North
+ORD-10538,2024-06-22,2024-06-23,Standard Class,CUST-20538,John,Home Office,India,Maharashtra,Nagpur,Furniture,Phones,2237.75,5,0.12,886.62,West
+ORD-10539,2024-06-23,2024-06-24,Standard Class,CUST-20539,Ali,Home Office,India,Telangana,Hyderabad,Office Supplies,Storage,6742.29,7,0.26,-146.13,South
+ORD-10540,2024-06-24,2024-06-25,Same Day,CUST-20540,John,Corporate,India,Karnataka,Mysore,Office Supplies,Accessories,3842.31,9,0.13,539.49,South
+ORD-10541,2024-06-25,2024-06-26,Second Class,CUST-20541,David,Corporate,India,Karnataka,Bangalore,Furniture,Storage,4404.38,4,0.12,25.11,South
+ORD-10542,2024-06-26,2024-06-27,Standard Class,CUST-20542,John,Consumer,India,Karnataka,Mysore,Office Supplies,Phones,4828.57,2,0.21,787.52,South
+ORD-10543,2024-06-27,2024-06-28,First Class,CUST-20543,David,Home Office,India,Karnataka,Bangalore,Office Supplies,Binders,4733.77,9,0.18,365.99,South
+ORD-10544,2024-06-28,2024-06-29,Standard Class,CUST-20544,Priya,Consumer,India,Karnataka,Mysore,Furniture,Binders,3674.6,2,0.03,-124.19,South
+ORD-10545,2024-06-29,2024-06-30,Standard Class,CUST-20545,Priya,Consumer,India,Tamil Nadu,Madurai,Office Supplies,Binders,3115.6,3,0.15,442.29,South
+ORD-10546,2024-06-30,2024-07-01,Standard Class,CUST-20546,Sara,Corporate,India,Maharashtra,Mumbai,Technology,Accessories,565.72,2,0.22,230.25,West
+ORD-10547,2024-07-01,2024-07-02,Same Day,CUST-20547,Sara,Home Office,India,Tamil Nadu,Chennai,Technology,Chairs,350.18,3,0.3,559.88,South
+ORD-10548,2024-07-02,2024-07-03,First Class,CUST-20548,Meera,Home Office,India,Telangana,Hyderabad,Furniture,Storage,2634.14,6,0.19,846.47,South
+ORD-10549,2024-07-03,2024-07-04,Second Class,CUST-20549,Ali,Home Office,India,Telangana,Warangal,Office Supplies,Binders,2468.89,3,0.11,232.21,South
+ORD-10550,2024-07-04,2024-07-05,First Class,CUST-20550,Meera,Corporate,India,Tamil Nadu,Chennai,Technology,Storage,2836.33,8,0.07,76.84,South
+ORD-10551,2024-07-05,2024-07-06,Second Class,CUST-20551,David,Corporate,India,Delhi,New Delhi,Technology,Binders,1140.9,6,0.26,-281.13,North
+ORD-10552,2024-07-06,2024-07-07,Same Day,CUST-20552,Meera,Corporate,India,Delhi,New Delhi,Office Supplies,Accessories,5219.54,7,0.24,447.29,North
+ORD-10553,2024-07-07,2024-07-08,Same Day,CUST-20553,John,Corporate,India,Karnataka,Mysore,Office Supplies,Chairs,6027.36,1,0.07,222.96,South
+ORD-10554,2024-07-08,2024-07-09,Same Day,CUST-20554,David,Corporate,India,Maharashtra,Nagpur,Technology,Chairs,6583.26,3,0.06,187.04,West
+ORD-10555,2024-07-09,2024-07-10,Same Day,CUST-20555,Sara,Home Office,India,Tamil Nadu,Coimbatore,Technology,Binders,3548.06,3,0.21,-62.18,South
+ORD-10556,2024-07-10,2024-07-11,Second Class,CUST-20556,Priya,Consumer,India,Delhi,New Delhi,Furniture,Accessories,4965.89,2,0.09,259.07,North
+ORD-10557,2024-07-11,2024-07-12,Standard Class,CUST-20557,Sara,Home Office,India,Telangana,Hyderabad,Furniture,Tables,6017.75,7,0.09,979.77,South
+ORD-10558,2024-07-12,2024-07-13,Second Class,CUST-20558,Ali,Consumer,India,Tamil Nadu,Coimbatore,Technology,Storage,3044.38,9,0.05,87.08,South
+ORD-10559,2024-07-13,2024-07-14,First Class,CUST-20559,David,Corporate,India,Delhi,New Delhi,Furniture,Storage,2304.01,4,0.08,479.62,North
+ORD-10560,2024-07-14,2024-07-15,Same Day,CUST-20560,David,Consumer,India,Maharashtra,Nagpur,Technology,Phones,6569.73,5,0.13,709.43,West
+ORD-10561,2024-07-15,2024-07-16,Same Day,CUST-20561,John,Home Office,India,Tamil Nadu,Chennai,Technology,Accessories,3706.6,3,0.22,673.91,South
+ORD-10562,2024-07-16,2024-07-17,First Class,CUST-20562,Ali,Home Office,India,Delhi,New Delhi,Furniture,Phones,3581.33,9,0.1,127.41,North
+ORD-10563,2024-07-17,2024-07-18,Second Class,CUST-20563,Priya,Consumer,India,Telangana,Hyderabad,Furniture,Binders,1413.23,4,0.1,494.12,South
+ORD-10564,2024-07-18,2024-07-19,Standard Class,CUST-20564,David,Corporate,India,Maharashtra,Mumbai,Office Supplies,Phones,935.45,5,0.09,832.64,West
+ORD-10565,2024-07-19,2024-07-20,Standard Class,CUST-20565,David,Corporate,India,Telangana,Hyderabad,Office Supplies,Chairs,5926.33,1,0.14,-279.92,South
+ORD-10566,2024-07-20,2024-07-21,First Class,CUST-20566,John,Home Office,India,Karnataka,Mysore,Office Supplies,Storage,4376.11,2,0.05,266.45,South
+ORD-10567,2024-07-21,2024-07-22,Standard Class,CUST-20567,Meera,Consumer,India,Delhi,New Delhi,Technology,Phones,2415.61,9,0.15,-8.44,North
+ORD-10568,2024-07-22,2024-07-23,Second Class,CUST-20568,Priya,Corporate,India,Tamil Nadu,Chennai,Furniture,Chairs,1503.81,2,0.21,205.22,South
+ORD-10569,2024-07-23,2024-07-24,Second Class,CUST-20569,Sara,Corporate,India,Karnataka,Bangalore,Technology,Accessories,3977.38,5,0.01,240.79,South
+ORD-10570,2024-07-24,2024-07-25,First Class,CUST-20570,Ali,Home Office,India,Karnataka,Mysore,Furniture,Phones,4170.65,8,0.0,670.67,South
+ORD-10571,2024-07-25,2024-07-26,Second Class,CUST-20571,David,Corporate,India,Telangana,Hyderabad,Technology,Binders,1607.56,3,0.02,-178.03,South
+ORD-10572,2024-07-26,2024-07-27,Same Day,CUST-20572,David,Consumer,India,Tamil Nadu,Madurai,Office Supplies,Binders,5989.56,6,0.16,366.36,South
+ORD-10573,2024-07-27,2024-07-28,First Class,CUST-20573,Sara,Home Office,India,Tamil Nadu,Chennai,Office Supplies,Binders,773.0,4,0.26,433.45,South
+ORD-10574,2024-07-28,2024-07-29,Second Class,CUST-20574,Priya,Home Office,India,Tamil Nadu,Chennai,Office Supplies,Storage,2621.43,7,0.0,342.4,South
+ORD-10575,2024-07-29,2024-07-30,First Class,CUST-20575,Meera,Consumer,India,Karnataka,Mysore,Technology,Phones,4826.61,3,0.28,651.44,South
+ORD-10576,2024-07-30,2024-07-31,Standard Class,CUST-20576,David,Home Office,India,Maharashtra,Nagpur,Furniture,Accessories,2064.02,6,0.03,198.93,West
+ORD-10577,2024-07-31,2024-08-01,Second Class,CUST-20577,Priya,Corporate,India,Telangana,Warangal,Furniture,Phones,5828.19,9,0.25,928.46,South
+ORD-10578,2024-08-01,2024-08-02,Same Day,CUST-20578,Sara,Corporate,India,Telangana,Hyderabad,Office Supplies,Storage,5231.1,1,0.14,326.34,South
+ORD-10579,2024-08-02,2024-08-03,Second Class,CUST-20579,John,Consumer,India,Telangana,Warangal,Office Supplies,Chairs,5565.36,3,0.2,442.58,South
+ORD-10580,2024-08-03,2024-08-04,First Class,CUST-20580,Meera,Corporate,India,Karnataka,Mysore,Office Supplies,Storage,1009.92,2,0.15,773.19,South
+ORD-10581,2024-08-04,2024-08-05,First Class,CUST-20581,Ali,Consumer,India,Delhi,New Delhi,Office Supplies,Binders,1155.72,8,0.14,57.81,North
+ORD-10582,2024-08-05,2024-08-06,Second Class,CUST-20582,David,Consumer,India,Maharashtra,Mumbai,Furniture,Chairs,2148.02,7,0.25,-202.24,West
+ORD-10583,2024-08-06,2024-08-07,Same Day,CUST-20583,Priya,Corporate,India,Delhi,New Delhi,Technology,Binders,3722.92,2,0.23,620.12,North
+ORD-10584,2024-08-07,2024-08-08,Same Day,CUST-20584,John,Consumer,India,Telangana,Warangal,Technology,Tables,5286.51,6,0.15,327.92,South
+ORD-10585,2024-08-08,2024-08-09,Same Day,CUST-20585,Ali,Corporate,India,Maharashtra,Pune,Technology,Storage,5888.41,3,0.03,865.46,West
+ORD-10586,2024-08-09,2024-08-10,First Class,CUST-20586,Priya,Home Office,India,Tamil Nadu,Chennai,Technology,Storage,4989.48,8,0.03,977.48,South
+ORD-10587,2024-08-10,2024-08-11,Second Class,CUST-20587,Priya,Home Office,India,Maharashtra,Mumbai,Office Supplies,Accessories,6514.46,3,0.24,218.84,West
+ORD-10588,2024-08-11,2024-08-12,Standard Class,CUST-20588,Ali,Consumer,India,Telangana,Hyderabad,Office Supplies,Phones,5223.46,9,0.16,240.07,South
+ORD-10589,2024-08-12,2024-08-13,First Class,CUST-20589,John,Corporate,India,Tamil Nadu,Coimbatore,Office Supplies,Chairs,2282.62,1,0.14,230.35,South
+ORD-10590,2024-08-13,2024-08-14,Same Day,CUST-20590,Sara,Corporate,India,Delhi,New Delhi,Technology,Chairs,2002.55,5,0.2,121.92,North
+ORD-10591,2024-08-14,2024-08-15,Second Class,CUST-20591,John,Home Office,India,Karnataka,Mysore,Office Supplies,Accessories,4934.11,3,0.26,716.19,South
+ORD-10592,2024-08-15,2024-08-16,Same Day,CUST-20592,Meera,Home Office,India,Maharashtra,Nagpur,Office Supplies,Accessories,1511.52,6,0.19,686.69,West
+ORD-10593,2024-08-16,2024-08-17,Standard Class,CUST-20593,David,Corporate,India,Karnataka,Bangalore,Furniture,Phones,830.46,2,0.23,322.24,South
+ORD-10594,2024-08-17,2024-08-18,Same Day,CUST-20594,Ali,Consumer,India,Maharashtra,Nagpur,Furniture,Binders,3819.12,9,0.23,-241.94,West
+ORD-10595,2024-08-18,2024-08-19,Same Day,CUST-20595,Sara,Home Office,India,Delhi,New Delhi,Office Supplies,Phones,5787.16,6,0.11,102.43,North
+ORD-10596,2024-08-19,2024-08-20,Standard Class,CUST-20596,Ali,Consumer,India,Maharashtra,Nagpur,Furniture,Storage,889.38,7,0.08,79.99,West
+ORD-10597,2024-08-20,2024-08-21,Second Class,CUST-20597,Ali,Consumer,India,Maharashtra,Mumbai,Furniture,Binders,5584.86,5,0.24,754.41,West
+ORD-10598,2024-08-21,2024-08-22,First Class,CUST-20598,John,Home Office,India,Maharashtra,Nagpur,Office Supplies,Tables,5718.69,9,0.11,-186.15,West
+ORD-10599,2024-08-22,2024-08-23,Second Class,CUST-20599,David,Consumer,India,Delhi,New Delhi,Office Supplies,Phones,3479.46,1,0.27,747.38,North
+ORD-10600,2024-08-23,2024-08-24,Standard Class,CUST-20600,Meera,Consumer,India,Delhi,New Delhi,Office Supplies,Accessories,589.71,5,0.02,569.94,North
+ORD-10601,2024-08-24,2024-08-25,Same Day,CUST-20601,Priya,Corporate,India,Maharashtra,Pune,Office Supplies,Binders,1387.21,6,0.02,652.17,West
+ORD-10602,2024-08-25,2024-08-26,Second Class,CUST-20602,Priya,Consumer,India,Telangana,Hyderabad,Technology,Phones,5010.5,7,0.28,261.88,South
+ORD-10603,2024-08-26,2024-08-27,First Class,CUST-20603,Ali,Corporate,India,Telangana,Hyderabad,Technology,Chairs,5040.09,4,0.19,583.64,South
+ORD-10604,2024-08-27,2024-08-28,Standard Class,CUST-20604,David,Home Office,India,Delhi,New Delhi,Office Supplies,Tables,6308.82,1,0.11,491.74,North
+ORD-10605,2024-08-28,2024-08-29,Second Class,CUST-20605,Sara,Home Office,India,Delhi,New Delhi,Furniture,Storage,4162.27,8,0.23,699.67,North
+ORD-10606,2024-08-29,2024-08-30,First Class,CUST-20606,John,Corporate,India,Karnataka,Bangalore,Office Supplies,Chairs,1043.93,4,0.2,280.8,South
+ORD-10607,2024-08-30,2024-08-31,Standard Class,CUST-20607,David,Home Office,India,Telangana,Hyderabad,Office Supplies,Chairs,1025.62,3,0.16,314.67,South
+ORD-10608,2024-08-31,2024-09-01,First Class,CUST-20608,David,Consumer,India,Delhi,New Delhi,Furniture,Tables,5103.7,7,0.03,536.65,North
+ORD-10609,2024-09-01,2024-09-02,Standard Class,CUST-20609,John,Consumer,India,Telangana,Warangal,Technology,Storage,1449.74,2,0.24,-159.5,South
+ORD-10610,2024-09-02,2024-09-03,Same Day,CUST-20610,Ali,Consumer,India,Karnataka,Mysore,Office Supplies,Accessories,2433.02,8,0.26,267.12,South
+ORD-10611,2024-09-03,2024-09-04,Second Class,CUST-20611,David,Home Office,India,Karnataka,Mysore,Office Supplies,Binders,3513.04,6,0.05,963.54,South
+ORD-10612,2024-09-04,2024-09-05,First Class,CUST-20612,Priya,Consumer,India,Telangana,Warangal,Technology,Storage,368.4,7,0.26,-251.18,South
+ORD-10613,2024-09-05,2024-09-06,Standard Class,CUST-20613,John,Home Office,India,Karnataka,Bangalore,Technology,Phones,1891.97,5,0.26,110.81,South
+ORD-10614,2024-09-06,2024-09-07,First Class,CUST-20614,Sara,Consumer,India,Karnataka,Bangalore,Furniture,Chairs,2973.65,9,0.16,108.34,South
+ORD-10615,2024-09-07,2024-09-08,First Class,CUST-20615,Meera,Corporate,India,Tamil Nadu,Madurai,Technology,Phones,2101.53,5,0.2,523.5,South
+ORD-10616,2024-09-08,2024-09-09,Second Class,CUST-20616,Ali,Home Office,India,Delhi,New Delhi,Technology,Accessories,1127.32,5,0.11,-162.46,North
+ORD-10617,2024-09-09,2024-09-10,Same Day,CUST-20617,John,Home Office,India,Telangana,Warangal,Technology,Phones,5150.48,3,0.08,517.11,South
+ORD-10618,2024-09-10,2024-09-11,First Class,CUST-20618,Meera,Consumer,India,Delhi,New Delhi,Furniture,Storage,5729.4,1,0.22,-176.45,North
+ORD-10619,2024-09-11,2024-09-12,Standard Class,CUST-20619,Meera,Home Office,India,Delhi,New Delhi,Technology,Phones,1950.86,2,0.26,-176.56,North
+ORD-10620,2024-09-12,2024-09-13,Standard Class,CUST-20620,Sara,Home Office,India,Delhi,New Delhi,Technology,Accessories,5466.05,8,0.2,646.64,North
+ORD-10621,2024-09-13,2024-09-14,Same Day,CUST-20621,David,Corporate,India,Maharashtra,Mumbai,Furniture,Accessories,2821.76,1,0.15,121.38,West
+ORD-10622,2024-09-14,2024-09-15,Standard Class,CUST-20622,Sara,Corporate,India,Karnataka,Bangalore,Technology,Accessories,3645.46,7,0.05,970.65,South
+ORD-10623,2024-09-15,2024-09-16,Same Day,CUST-20623,David,Consumer,India,Delhi,New Delhi,Technology,Storage,6020.81,5,0.02,-251.44,North
+ORD-10624,2024-09-16,2024-09-17,Standard Class,CUST-20624,David,Corporate,India,Karnataka,Bangalore,Furniture,Accessories,5299.69,3,0.13,278.64,South
+ORD-10625,2024-09-17,2024-09-18,Second Class,CUST-20625,John,Consumer,India,Telangana,Hyderabad,Office Supplies,Chairs,5674.79,7,0.01,-152.92,South
+ORD-10626,2024-09-18,2024-09-19,First Class,CUST-20626,John,Consumer,India,Tamil Nadu,Coimbatore,Furniture,Accessories,1130.55,9,0.17,156.79,South
+ORD-10627,2024-09-19,2024-09-20,Second Class,CUST-20627,Ali,Consumer,India,Telangana,Hyderabad,Technology,Phones,674.09,2,0.11,997.69,South
+ORD-10628,2024-09-20,2024-09-21,First Class,CUST-20628,David,Home Office,India,Tamil Nadu,Coimbatore,Technology,Binders,6275.15,8,0.23,855.5,South
+ORD-10629,2024-09-21,2024-09-22,First Class,CUST-20629,Meera,Corporate,India,Maharashtra,Mumbai,Technology,Phones,2837.27,9,0.09,-237.18,West
+ORD-10630,2024-09-22,2024-09-23,First Class,CUST-20630,Priya,Consumer,India,Karnataka,Mysore,Furniture,Binders,2157.58,3,0.18,432.23,South
+ORD-10631,2024-09-23,2024-09-24,Second Class,CUST-20631,Ali,Corporate,India,Delhi,New Delhi,Technology,Phones,5127.93,2,0.16,542.17,North
+ORD-10632,2024-09-24,2024-09-25,First Class,CUST-20632,John,Consumer,India,Tamil Nadu,Chennai,Technology,Storage,5887.63,7,0.0,-27.6,South
+ORD-10633,2024-09-25,2024-09-26,Second Class,CUST-20633,Sara,Corporate,India,Telangana,Warangal,Furniture,Phones,6064.93,5,0.02,-111.36,South
+ORD-10634,2024-09-26,2024-09-27,Same Day,CUST-20634,Ali,Corporate,India,Maharashtra,Nagpur,Office Supplies,Storage,2348.78,5,0.09,875.7,West
+ORD-10635,2024-09-27,2024-09-28,Standard Class,CUST-20635,Ali,Consumer,India,Tamil Nadu,Chennai,Office Supplies,Storage,5995.04,5,0.26,959.46,South
+ORD-10636,2024-09-28,2024-09-29,Standard Class,CUST-20636,Ali,Home Office,India,Tamil Nadu,Coimbatore,Technology,Accessories,478.35,4,0.04,989.46,South
+ORD-10637,2024-09-29,2024-09-30,First Class,CUST-20637,Ali,Corporate,India,Delhi,New Delhi,Furniture,Chairs,537.7,5,0.21,726.69,North
+ORD-10638,2024-09-30,2024-10-01,Second Class,CUST-20638,Priya,Home Office,India,Tamil Nadu,Chennai,Technology,Binders,4439.93,4,0.29,562.55,South
+ORD-10639,2024-10-01,2024-10-02,Standard Class,CUST-20639,Sara,Home Office,India,Karnataka,Bangalore,Furniture,Accessories,629.12,6,0.24,149.45,South
+ORD-10640,2024-10-02,2024-10-03,Second Class,CUST-20640,Sara,Consumer,India,Telangana,Hyderabad,Furniture,Accessories,2407.34,4,0.07,-77.18,South
+ORD-10641,2024-10-03,2024-10-04,Second Class,CUST-20641,Sara,Consumer,India,Delhi,New Delhi,Office Supplies,Storage,4774.74,2,0.27,-197.33,North
+ORD-10642,2024-10-04,2024-10-05,First Class,CUST-20642,David,Consumer,India,Tamil Nadu,Coimbatore,Office Supplies,Storage,2493.41,9,0.03,601.29,South
+ORD-10643,2024-10-05,2024-10-06,Standard Class,CUST-20643,Meera,Corporate,India,Telangana,Warangal,Furniture,Binders,1421.28,2,0.14,720.14,South
+ORD-10644,2024-10-06,2024-10-07,First Class,CUST-20644,Sara,Consumer,India,Karnataka,Bangalore,Technology,Phones,2113.18,9,0.27,774.39,South
+ORD-10645,2024-10-07,2024-10-08,First Class,CUST-20645,Ali,Consumer,India,Karnataka,Bangalore,Office Supplies,Phones,3311.51,6,0.19,887.89,South
+ORD-10646,2024-10-08,2024-10-09,Standard Class,CUST-20646,Ali,Corporate,India,Karnataka,Bangalore,Technology,Accessories,3432.62,9,0.12,843.91,South
+ORD-10647,2024-10-09,2024-10-10,Standard Class,CUST-20647,Sara,Corporate,India,Tamil Nadu,Madurai,Office Supplies,Tables,5524.4,9,0.09,999.66,South
+ORD-10648,2024-10-10,2024-10-11,Same Day,CUST-20648,Sara,Consumer,India,Telangana,Warangal,Office Supplies,Tables,5301.04,3,0.11,17.28,South
+ORD-10649,2024-10-11,2024-10-12,Same Day,CUST-20649,Ali,Consumer,India,Telangana,Hyderabad,Technology,Phones,3306.36,1,0.15,692.3,South
+ORD-10650,2024-10-12,2024-10-13,Second Class,CUST-20650,David,Consumer,India,Tamil Nadu,Madurai,Office Supplies,Tables,5950.54,1,0.1,462.4,South
+ORD-10651,2024-10-13,2024-10-14,Standard Class,CUST-20651,John,Consumer,India,Delhi,New Delhi,Office Supplies,Phones,976.81,3,0.29,39.62,North
+ORD-10652,2024-10-14,2024-10-15,Same Day,CUST-20652,John,Home Office,India,Maharashtra,Mumbai,Technology,Storage,1936.4,5,0.28,976.48,West
+ORD-10653,2024-10-15,2024-10-16,Second Class,CUST-20653,Sara,Home Office,India,Tamil Nadu,Chennai,Office Supplies,Accessories,5830.24,3,0.26,867.27,South
+ORD-10654,2024-10-16,2024-10-17,Second Class,CUST-20654,Priya,Consumer,India,Telangana,Warangal,Office Supplies,Chairs,2770.36,9,0.13,-132.93,South
+ORD-10655,2024-10-17,2024-10-18,Second Class,CUST-20655,Sara,Home Office,India,Karnataka,Mysore,Office Supplies,Accessories,6872.03,9,0.21,-265.99,South
+ORD-10656,2024-10-18,2024-10-19,Same Day,CUST-20656,Sara,Corporate,India,Karnataka,Bangalore,Technology,Phones,3370.52,3,0.27,594.83,South
+ORD-10657,2024-10-19,2024-10-20,Standard Class,CUST-20657,John,Home Office,India,Tamil Nadu,Madurai,Furniture,Phones,5585.16,3,0.26,485.37,South
+ORD-10658,2024-10-20,2024-10-21,First Class,CUST-20658,Ali,Home Office,India,Tamil Nadu,Chennai,Technology,Accessories,2935.69,5,0.12,916.56,South
+ORD-10659,2024-10-21,2024-10-22,Second Class,CUST-20659,Sara,Consumer,India,Tamil Nadu,Coimbatore,Furniture,Binders,3089.68,2,0.03,4.21,South
+ORD-10660,2024-10-22,2024-10-23,Same Day,CUST-20660,Ali,Home Office,India,Delhi,New Delhi,Office Supplies,Phones,2803.61,6,0.02,-190.3,North
+ORD-10661,2024-10-23,2024-10-24,Same Day,CUST-20661,Ali,Home Office,India,Maharashtra,Mumbai,Furniture,Tables,5089.71,7,0.17,36.98,West
+ORD-10662,2024-10-24,2024-10-25,First Class,CUST-20662,Priya,Home Office,India,Tamil Nadu,Chennai,Technology,Tables,3923.12,9,0.19,-275.39,South
+ORD-10663,2024-10-25,2024-10-26,First Class,CUST-20663,Ali,Home Office,India,Telangana,Hyderabad,Technology,Phones,6617.69,6,0.25,-253.34,South
+ORD-10664,2024-10-26,2024-10-27,Same Day,CUST-20664,John,Corporate,India,Telangana,Warangal,Office Supplies,Phones,1906.05,3,0.09,889.32,South
+ORD-10665,2024-10-27,2024-10-28,Standard Class,CUST-20665,David,Consumer,India,Maharashtra,Mumbai,Furniture,Binders,883.83,5,0.05,157.62,West
+ORD-10666,2024-10-28,2024-10-29,First Class,CUST-20666,David,Consumer,India,Maharashtra,Mumbai,Office Supplies,Tables,2874.18,4,0.11,234.05,West
+ORD-10667,2024-10-29,2024-10-30,Same Day,CUST-20667,Meera,Corporate,India,Telangana,Warangal,Office Supplies,Phones,4393.65,5,0.11,-276.12,South
+ORD-10668,2024-10-30,2024-10-31,First Class,CUST-20668,Sara,Home Office,India,Tamil Nadu,Coimbatore,Technology,Phones,6053.43,8,0.04,51.68,South
+ORD-10669,2024-10-31,2024-11-01,Standard Class,CUST-20669,John,Corporate,India,Telangana,Hyderabad,Furniture,Binders,2554.14,8,0.2,746.14,South
+ORD-10670,2024-11-01,2024-11-02,Second Class,CUST-20670,Ali,Home Office,India,Karnataka,Mysore,Furniture,Binders,4645.75,6,0.15,500.14,South
+ORD-10671,2024-11-02,2024-11-03,First Class,CUST-20671,David,Corporate,India,Delhi,New Delhi,Furniture,Accessories,2581.35,1,0.22,679.91,North
+ORD-10672,2024-11-03,2024-11-04,Standard Class,CUST-20672,John,Consumer,India,Tamil Nadu,Coimbatore,Furniture,Binders,4397.09,8,0.11,281.38,South
+ORD-10673,2024-11-04,2024-11-05,Same Day,CUST-20673,David,Consumer,India,Telangana,Hyderabad,Office Supplies,Chairs,6216.69,8,0.1,102.65,South
+ORD-10674,2024-11-05,2024-11-06,First Class,CUST-20674,Ali,Consumer,India,Delhi,New Delhi,Office Supplies,Tables,1773.23,2,0.14,327.65,North
+ORD-10675,2024-11-06,2024-11-07,First Class,CUST-20675,David,Home Office,India,Tamil Nadu,Chennai,Technology,Accessories,2948.84,4,0.26,119.99,South
+ORD-10676,2024-11-07,2024-11-08,Same Day,CUST-20676,Sara,Home Office,India,Telangana,Warangal,Office Supplies,Chairs,6954.2,2,0.01,790.66,South
+ORD-10677,2024-11-08,2024-11-09,Second Class,CUST-20677,Sara,Corporate,India,Karnataka,Mysore,Office Supplies,Phones,6106.19,4,0.24,86.98,South
+ORD-10678,2024-11-09,2024-11-10,Same Day,CUST-20678,Meera,Corporate,India,Telangana,Warangal,Technology,Phones,4039.55,7,0.11,557.69,South
+ORD-10679,2024-11-10,2024-11-11,First Class,CUST-20679,Meera,Consumer,India,Karnataka,Mysore,Technology,Accessories,3713.07,9,0.26,-121.92,South
+ORD-10680,2024-11-11,2024-11-12,Same Day,CUST-20680,David,Home Office,India,Tamil Nadu,Madurai,Technology,Binders,2135.28,8,0.24,592.93,South
+ORD-10681,2024-11-12,2024-11-13,Standard Class,CUST-20681,John,Corporate,India,Delhi,New Delhi,Office Supplies,Phones,3717.02,9,0.1,887.29,North
+ORD-10682,2024-11-13,2024-11-14,Same Day,CUST-20682,Sara,Home Office,India,Karnataka,Bangalore,Office Supplies,Storage,5967.63,8,0.21,491.16,South
+ORD-10683,2024-11-14,2024-11-15,First Class,CUST-20683,John,Home Office,India,Maharashtra,Mumbai,Technology,Accessories,4859.19,2,0.05,427.81,West
+ORD-10684,2024-11-15,2024-11-16,Same Day,CUST-20684,John,Consumer,India,Tamil Nadu,Madurai,Technology,Chairs,2172.3,7,0.27,949.45,South
+ORD-10685,2024-11-16,2024-11-17,Second Class,CUST-20685,David,Consumer,India,Telangana,Warangal,Technology,Accessories,1569.95,2,0.12,515.62,South
+ORD-10686,2024-11-17,2024-11-18,Same Day,CUST-20686,John,Home Office,India,Telangana,Hyderabad,Office Supplies,Tables,2003.42,2,0.14,37.42,South
+ORD-10687,2024-11-18,2024-11-19,Second Class,CUST-20687,Sara,Home Office,India,Maharashtra,Pune,Office Supplies,Binders,1354.36,4,0.21,80.11,West
+ORD-10688,2024-11-19,2024-11-20,Standard Class,CUST-20688,Ali,Home Office,India,Tamil Nadu,Madurai,Furniture,Binders,850.36,1,0.25,616.9,South
+ORD-10689,2024-11-20,2024-11-21,Second Class,CUST-20689,Meera,Home Office,India,Maharashtra,Nagpur,Office Supplies,Accessories,3050.13,5,0.07,656.07,West
+ORD-10690,2024-11-21,2024-11-22,Same Day,CUST-20690,Ali,Consumer,India,Telangana,Hyderabad,Office Supplies,Phones,970.44,6,0.2,94.55,South
+ORD-10691,2024-11-22,2024-11-23,First Class,CUST-20691,John,Corporate,India,Delhi,New Delhi,Office Supplies,Phones,1369.01,9,0.12,148.95,North
+ORD-10692,2024-11-23,2024-11-24,Second Class,CUST-20692,Ali,Consumer,India,Karnataka,Bangalore,Technology,Storage,3921.81,8,0.11,988.37,South
+ORD-10693,2024-11-24,2024-11-25,Standard Class,CUST-20693,Sara,Corporate,India,Telangana,Warangal,Office Supplies,Storage,1319.28,2,0.21,-167.46,South
+ORD-10694,2024-11-25,2024-11-26,Second Class,CUST-20694,Sara,Home Office,India,Delhi,New Delhi,Technology,Binders,634.38,1,0.12,226.04,North
+ORD-10695,2024-11-26,2024-11-27,Second Class,CUST-20695,John,Corporate,India,Delhi,New Delhi,Furniture,Storage,2358.24,2,0.1,-218.82,North
+ORD-10696,2024-11-27,2024-11-28,Second Class,CUST-20696,David,Consumer,India,Maharashtra,Pune,Furniture,Chairs,1698.17,7,0.25,767.4,West
+ORD-10697,2024-11-28,2024-11-29,Standard Class,CUST-20697,Ali,Consumer,India,Maharashtra,Pune,Technology,Storage,3704.08,4,0.03,-179.95,West
+ORD-10698,2024-11-29,2024-11-30,Same Day,CUST-20698,David,Home Office,India,Karnataka,Bangalore,Technology,Chairs,896.1,5,0.2,576.21,South
+ORD-10699,2024-11-30,2024-12-01,Second Class,CUST-20699,David,Consumer,India,Karnataka,Bangalore,Technology,Storage,5312.04,7,0.07,-226.57,South
+ORD-10700,2024-12-01,2024-12-02,Second Class,CUST-20700,Priya,Home Office,India,Tamil Nadu,Madurai,Office Supplies,Binders,6362.39,3,0.0,574.71,South
+ORD-10701,2024-12-02,2024-12-03,First Class,CUST-20701,John,Consumer,India,Maharashtra,Nagpur,Furniture,Binders,5255.36,2,0.05,795.95,West
+ORD-10702,2024-12-03,2024-12-04,Standard Class,CUST-20702,Meera,Consumer,India,Maharashtra,Nagpur,Technology,Chairs,3823.22,7,0.18,218.47,West
+ORD-10703,2024-12-04,2024-12-05,Second Class,CUST-20703,Sara,Home Office,India,Delhi,New Delhi,Office Supplies,Accessories,6052.54,5,0.21,378.76,North
+ORD-10704,2024-12-05,2024-12-06,Standard Class,CUST-20704,Sara,Corporate,India,Maharashtra,Pune,Furniture,Binders,4925.44,1,0.01,222.0,West
+ORD-10705,2024-12-06,2024-12-07,Second Class,CUST-20705,John,Consumer,India,Karnataka,Bangalore,Office Supplies,Accessories,271.75,1,0.01,90.64,South
+ORD-10706,2024-12-07,2024-12-08,Same Day,CUST-20706,Meera,Corporate,India,Maharashtra,Nagpur,Furniture,Phones,2879.81,9,0.27,744.24,West
+ORD-10707,2024-12-08,2024-12-09,Same Day,CUST-20707,Sara,Consumer,India,Karnataka,Bangalore,Office Supplies,Chairs,5986.47,5,0.02,53.6,South
+ORD-10708,2024-12-09,2024-12-10,Second Class,CUST-20708,John,Consumer,India,Karnataka,Bangalore,Furniture,Binders,2551.84,1,0.27,639.83,South
+ORD-10709,2024-12-10,2024-12-11,Same Day,CUST-20709,Sara,Consumer,India,Delhi,New Delhi,Furniture,Tables,439.46,7,0.07,-31.94,North
+ORD-10710,2024-12-11,2024-12-12,Second Class,CUST-20710,David,Consumer,India,Delhi,New Delhi,Office Supplies,Phones,5274.02,9,0.22,24.81,North
+ORD-10711,2024-12-12,2024-12-13,Same Day,CUST-20711,Ali,Corporate,India,Maharashtra,Mumbai,Technology,Accessories,5653.86,1,0.09,137.4,West
+ORD-10712,2024-12-13,2024-12-14,First Class,CUST-20712,Ali,Corporate,India,Tamil Nadu,Coimbatore,Furniture,Binders,1292.04,4,0.26,465.9,South
+ORD-10713,2024-12-14,2024-12-15,First Class,CUST-20713,Sara,Consumer,India,Maharashtra,Nagpur,Technology,Chairs,3853.92,3,0.21,290.75,West
+ORD-10714,2024-12-15,2024-12-16,First Class,CUST-20714,Priya,Consumer,India,Delhi,New Delhi,Office Supplies,Storage,1505.3,5,0.12,668.69,North
+ORD-10715,2024-12-16,2024-12-17,Standard Class,CUST-20715,Meera,Corporate,India,Karnataka,Mysore,Technology,Tables,5090.79,7,0.02,-22.36,South
+ORD-10716,2024-12-17,2024-12-18,Standard Class,CUST-20716,Meera,Home Office,India,Delhi,New Delhi,Technology,Accessories,2046.54,8,0.22,-286.13,North
+ORD-10717,2024-12-18,2024-12-19,First Class,CUST-20717,Meera,Home Office,India,Tamil Nadu,Coimbatore,Technology,Phones,2350.26,2,0.19,709.52,South
+ORD-10718,2024-12-19,2024-12-20,Standard Class,CUST-20718,David,Corporate,India,Telangana,Warangal,Technology,Chairs,5945.8,7,0.0,768.14,South
+ORD-10719,2024-12-20,2024-12-21,Same Day,CUST-20719,Meera,Consumer,India,Tamil Nadu,Coimbatore,Technology,Tables,3438.99,1,0.0,-222.68,South
+ORD-10720,2024-12-21,2024-12-22,Second Class,CUST-20720,Ali,Consumer,India,Telangana,Hyderabad,Furniture,Chairs,4754.33,7,0.24,494.18,South
+ORD-10721,2024-12-22,2024-12-23,Second Class,CUST-20721,David,Home Office,India,Tamil Nadu,Coimbatore,Furniture,Binders,2936.14,8,0.08,191.67,South
+ORD-10722,2024-12-23,2024-12-24,Second Class,CUST-20722,John,Home Office,India,Maharashtra,Mumbai,Furniture,Storage,2226.45,2,0.19,732.06,West
+ORD-10723,2024-12-24,2024-12-25,First Class,CUST-20723,Meera,Corporate,India,Tamil Nadu,Coimbatore,Office Supplies,Phones,4453.25,9,0.14,836.74,South
+ORD-10724,2024-12-25,2024-12-26,Standard Class,CUST-20724,Meera,Home Office,India,Telangana,Warangal,Technology,Chairs,1253.03,1,0.26,806.3,South
+ORD-10725,2024-12-26,2024-12-27,Same Day,CUST-20725,John,Corporate,India,Delhi,New Delhi,Furniture,Accessories,2736.4,6,0.28,710.37,North
+ORD-10726,2024-12-27,2024-12-28,Same Day,CUST-20726,Meera,Home Office,India,Karnataka,Mysore,Office Supplies,Binders,1621.45,1,0.3,49.77,South
+ORD-10727,2024-12-28,2024-12-29,First Class,CUST-20727,John,Home Office,India,Maharashtra,Mumbai,Furniture,Binders,4931.41,3,0.05,755.46,West
+ORD-10728,2024-12-29,2024-12-30,Same Day,CUST-20728,David,Home Office,India,Karnataka,Bangalore,Furniture,Phones,6620.62,6,0.26,393.52,South
+ORD-10729,2024-12-30,2024-12-31,Same Day,CUST-20729,Ali,Consumer,India,Maharashtra,Nagpur,Technology,Binders,6969.47,3,0.08,-231.42,West
+ORD-10730,2024-12-31,2025-01-01,Same Day,CUST-20730,John,Consumer,India,Karnataka,Mysore,Office Supplies,Accessories,3261.88,8,0.18,294.02,South
+ORD-10731,2025-01-01,2025-01-02,Same Day,CUST-20731,Priya,Consumer,India,Maharashtra,Pune,Technology,Chairs,1917.21,5,0.15,924.81,West
+ORD-10732,2025-01-02,2025-01-03,Standard Class,CUST-20732,John,Home Office,India,Delhi,New Delhi,Technology,Phones,3211.24,2,0.01,854.22,North
+ORD-10733,2025-01-03,2025-01-04,Same Day,CUST-20733,Meera,Corporate,India,Tamil Nadu,Coimbatore,Furniture,Binders,5961.43,4,0.28,-167.06,South
+ORD-10734,2025-01-04,2025-01-05,Second Class,CUST-20734,David,Corporate,India,Karnataka,Bangalore,Technology,Binders,1600.84,9,0.02,667.36,South
+ORD-10735,2025-01-05,2025-01-06,First Class,CUST-20735,Sara,Corporate,India,Maharashtra,Mumbai,Office Supplies,Accessories,6674.25,4,0.21,747.53,West
+ORD-10736,2025-01-06,2025-01-07,Standard Class,CUST-20736,David,Corporate,India,Karnataka,Mysore,Technology,Storage,2524.69,8,0.24,52.8,South
+ORD-10737,2025-01-07,2025-01-08,Same Day,CUST-20737,Sara,Consumer,India,Maharashtra,Pune,Technology,Storage,6903.46,5,0.24,313.09,West
+ORD-10738,2025-01-08,2025-01-09,Standard Class,CUST-20738,John,Consumer,India,Maharashtra,Nagpur,Technology,Binders,5902.54,1,0.04,624.28,West
+ORD-10739,2025-01-09,2025-01-10,Same Day,CUST-20739,Ali,Home Office,India,Tamil Nadu,Madurai,Furniture,Chairs,5698.28,7,0.13,270.75,South
+ORD-10740,2025-01-10,2025-01-11,Second Class,CUST-20740,Priya,Home Office,India,Telangana,Warangal,Office Supplies,Phones,2361.75,3,0.25,-153.36,South
+ORD-10741,2025-01-11,2025-01-12,First Class,CUST-20741,David,Corporate,India,Karnataka,Mysore,Furniture,Binders,259.69,8,0.09,617.65,South
+ORD-10742,2025-01-12,2025-01-13,Same Day,CUST-20742,Meera,Consumer,India,Maharashtra,Mumbai,Furniture,Tables,2798.5,3,0.14,885.13,West
+ORD-10743,2025-01-13,2025-01-14,Same Day,CUST-20743,Sara,Corporate,India,Maharashtra,Nagpur,Furniture,Phones,2252.3,1,0.08,548.23,West
+ORD-10744,2025-01-14,2025-01-15,Same Day,CUST-20744,Meera,Home Office,India,Karnataka,Bangalore,Furniture,Storage,454.3,5,0.14,705.94,South
+ORD-10745,2025-01-15,2025-01-16,Same Day,CUST-20745,Ali,Home Office,India,Tamil Nadu,Coimbatore,Furniture,Binders,3636.48,2,0.27,165.87,South
+ORD-10746,2025-01-16,2025-01-17,First Class,CUST-20746,Sara,Corporate,India,Maharashtra,Pune,Office Supplies,Accessories,2940.61,4,0.14,-61.84,West
+ORD-10747,2025-01-17,2025-01-18,First Class,CUST-20747,David,Home Office,India,Karnataka,Mysore,Technology,Tables,4514.98,1,0.17,535.61,South
+ORD-10748,2025-01-18,2025-01-19,Second Class,CUST-20748,John,Corporate,India,Karnataka,Mysore,Furniture,Binders,4424.07,9,0.12,126.1,South
+ORD-10749,2025-01-19,2025-01-20,First Class,CUST-20749,Meera,Consumer,India,Telangana,Hyderabad,Furniture,Chairs,1021.08,6,0.14,818.1,South
+ORD-10750,2025-01-20,2025-01-21,Same Day,CUST-20750,Ali,Corporate,India,Telangana,Hyderabad,Office Supplies,Tables,6843.37,8,0.0,-140.58,South
+ORD-10751,2025-01-21,2025-01-22,Second Class,CUST-20751,David,Consumer,India,Delhi,New Delhi,Office Supplies,Binders,1471.13,4,0.09,263.5,North
+ORD-10752,2025-01-22,2025-01-23,Second Class,CUST-20752,David,Consumer,India,Telangana,Warangal,Technology,Chairs,3227.86,9,0.13,215.75,South
+ORD-10753,2025-01-23,2025-01-24,Second Class,CUST-20753,David,Home Office,India,Maharashtra,Mumbai,Office Supplies,Tables,3519.2,2,0.19,919.47,West
+ORD-10754,2025-01-24,2025-01-25,Same Day,CUST-20754,David,Home Office,India,Telangana,Warangal,Technology,Chairs,5728.83,9,0.14,-100.92,South
+ORD-10755,2025-01-25,2025-01-26,Standard Class,CUST-20755,Sara,Home Office,India,Telangana,Warangal,Furniture,Chairs,874.76,5,0.1,-287.2,South
+ORD-10756,2025-01-26,2025-01-27,Same Day,CUST-20756,David,Corporate,India,Delhi,New Delhi,Furniture,Tables,3114.78,6,0.12,9.51,North
+ORD-10757,2025-01-27,2025-01-28,First Class,CUST-20757,Meera,Corporate,India,Tamil Nadu,Madurai,Technology,Tables,4473.81,3,0.07,766.36,South
+ORD-10758,2025-01-28,2025-01-29,First Class,CUST-20758,Ali,Home Office,India,Telangana,Warangal,Office Supplies,Chairs,1663.06,4,0.28,-27.88,South
+ORD-10759,2025-01-29,2025-01-30,Same Day,CUST-20759,Sara,Corporate,India,Karnataka,Bangalore,Technology,Storage,4466.78,6,0.16,13.14,South
+ORD-10760,2025-01-30,2025-01-31,Same Day,CUST-20760,David,Home Office,India,Maharashtra,Mumbai,Office Supplies,Tables,6480.92,7,0.0,-131.13,West
+ORD-10761,2025-01-31,2025-02-01,Second Class,CUST-20761,Priya,Corporate,India,Karnataka,Mysore,Furniture,Binders,6983.12,1,0.01,630.07,South
+ORD-10762,2025-02-01,2025-02-02,Same Day,CUST-20762,Priya,Consumer,India,Delhi,New Delhi,Office Supplies,Phones,420.67,7,0.29,-210.07,North
+ORD-10763,2025-02-02,2025-02-03,Second Class,CUST-20763,Ali,Consumer,India,Telangana,Hyderabad,Technology,Accessories,1802.0,1,0.07,130.57,South
+ORD-10764,2025-02-03,2025-02-04,First Class,CUST-20764,John,Home Office,India,Delhi,New Delhi,Technology,Chairs,2310.09,5,0.24,67.25,North
+ORD-10765,2025-02-04,2025-02-05,Second Class,CUST-20765,John,Corporate,India,Telangana,Hyderabad,Furniture,Chairs,2914.06,6,0.02,421.71,South
+ORD-10766,2025-02-05,2025-02-06,Same Day,CUST-20766,Sara,Corporate,India,Telangana,Hyderabad,Office Supplies,Accessories,1847.35,2,0.28,649.54,South
+ORD-10767,2025-02-06,2025-02-07,First Class,CUST-20767,Sara,Consumer,India,Telangana,Warangal,Office Supplies,Storage,1583.72,9,0.26,392.74,South
+ORD-10768,2025-02-07,2025-02-08,Standard Class,CUST-20768,Sara,Consumer,India,Tamil Nadu,Coimbatore,Office Supplies,Accessories,6690.97,6,0.17,910.33,South
+ORD-10769,2025-02-08,2025-02-09,Second Class,CUST-20769,John,Home Office,India,Karnataka,Bangalore,Furniture,Tables,6445.95,7,0.0,936.88,South
+ORD-10770,2025-02-09,2025-02-10,First Class,CUST-20770,Priya,Consumer,India,Tamil Nadu,Chennai,Office Supplies,Accessories,519.55,8,0.08,169.9,South
+ORD-10771,2025-02-10,2025-02-11,Second Class,CUST-20771,John,Home Office,India,Tamil Nadu,Chennai,Technology,Chairs,2503.93,1,0.12,710.98,South
+ORD-10772,2025-02-11,2025-02-12,First Class,CUST-20772,Meera,Consumer,India,Tamil Nadu,Chennai,Office Supplies,Accessories,2955.01,8,0.14,660.44,South
+ORD-10773,2025-02-12,2025-02-13,First Class,CUST-20773,David,Consumer,India,Telangana,Warangal,Furniture,Phones,1825.3,4,0.09,860.85,South
+ORD-10774,2025-02-13,2025-02-14,Second Class,CUST-20774,Sara,Corporate,India,Karnataka,Bangalore,Office Supplies,Binders,4476.34,8,0.01,282.33,South
+ORD-10775,2025-02-14,2025-02-15,Standard Class,CUST-20775,Priya,Consumer,India,Telangana,Hyderabad,Office Supplies,Tables,4554.59,6,0.18,389.62,South
+ORD-10776,2025-02-15,2025-02-16,First Class,CUST-20776,Ali,Consumer,India,Karnataka,Bangalore,Technology,Accessories,5983.43,9,0.16,240.51,South
+ORD-10777,2025-02-16,2025-02-17,First Class,CUST-20777,Ali,Home Office,India,Delhi,New Delhi,Office Supplies,Chairs,5237.91,4,0.08,805.49,North
+ORD-10778,2025-02-17,2025-02-18,First Class,CUST-20778,David,Consumer,India,Delhi,New Delhi,Technology,Binders,3889.5,2,0.01,-1.39,North
+ORD-10779,2025-02-18,2025-02-19,Standard Class,CUST-20779,Priya,Home Office,India,Telangana,Warangal,Technology,Tables,4644.39,2,0.3,11.62,South
+ORD-10780,2025-02-19,2025-02-20,Standard Class,CUST-20780,John,Consumer,India,Karnataka,Mysore,Furniture,Chairs,2063.12,5,0.14,184.39,South
+ORD-10781,2025-02-20,2025-02-21,Same Day,CUST-20781,John,Consumer,India,Telangana,Hyderabad,Technology,Storage,4232.78,9,0.23,-0.55,South
+ORD-10782,2025-02-21,2025-02-22,Second Class,CUST-20782,Meera,Home Office,India,Delhi,New Delhi,Technology,Phones,3526.75,3,0.14,429.31,North
+ORD-10783,2025-02-22,2025-02-23,Standard Class,CUST-20783,Meera,Corporate,India,Telangana,Hyderabad,Furniture,Storage,1106.74,8,0.01,-125.16,South
+ORD-10784,2025-02-23,2025-02-24,Second Class,CUST-20784,John,Home Office,India,Tamil Nadu,Chennai,Technology,Phones,1849.3,4,0.09,116.24,South
+ORD-10785,2025-02-24,2025-02-25,Same Day,CUST-20785,Ali,Home Office,India,Tamil Nadu,Coimbatore,Furniture,Accessories,2183.52,6,0.1,887.48,South
+ORD-10786,2025-02-25,2025-02-26,Second Class,CUST-20786,Sara,Home Office,India,Tamil Nadu,Madurai,Office Supplies,Tables,6485.31,6,0.25,231.99,South
+ORD-10787,2025-02-26,2025-02-27,Standard Class,CUST-20787,Ali,Corporate,India,Tamil Nadu,Madurai,Furniture,Accessories,1766.63,3,0.2,672.7,South
+ORD-10788,2025-02-27,2025-02-28,Second Class,CUST-20788,Meera,Consumer,India,Delhi,New Delhi,Technology,Phones,2166.86,5,0.08,-152.5,North
+ORD-10789,2025-02-28,2025-03-01,Standard Class,CUST-20789,David,Home Office,India,Telangana,Warangal,Furniture,Phones,2711.61,3,0.29,21.83,South
+ORD-10790,2025-03-01,2025-03-02,Second Class,CUST-20790,John,Home Office,India,Maharashtra,Mumbai,Technology,Phones,4713.45,1,0.1,749.55,West
+ORD-10791,2025-03-02,2025-03-03,Standard Class,CUST-20791,Meera,Corporate,India,Maharashtra,Pune,Office Supplies,Binders,1004.02,7,0.3,691.89,West
+ORD-10792,2025-03-03,2025-03-04,Standard Class,CUST-20792,Meera,Home Office,India,Tamil Nadu,Coimbatore,Furniture,Chairs,6686.83,4,0.3,202.0,South
+ORD-10793,2025-03-04,2025-03-05,Second Class,CUST-20793,Sara,Consumer,India,Tamil Nadu,Madurai,Office Supplies,Tables,6085.88,7,0.06,940.72,South
+ORD-10794,2025-03-05,2025-03-06,Same Day,CUST-20794,John,Corporate,India,Telangana,Warangal,Technology,Accessories,4125.07,3,0.09,883.84,South
+ORD-10795,2025-03-06,2025-03-07,First Class,CUST-20795,Sara,Consumer,India,Tamil Nadu,Chennai,Technology,Accessories,4783.46,5,0.15,950.99,South
+ORD-10796,2025-03-07,2025-03-08,Same Day,CUST-20796,John,Consumer,India,Karnataka,Bangalore,Office Supplies,Storage,313.29,5,0.2,256.29,South
+ORD-10797,2025-03-08,2025-03-09,Second Class,CUST-20797,Sara,Corporate,India,Karnataka,Mysore,Furniture,Phones,2504.82,2,0.16,-43.28,South
+ORD-10798,2025-03-09,2025-03-10,Same Day,CUST-20798,Ali,Home Office,India,Tamil Nadu,Madurai,Furniture,Phones,5610.49,2,0.29,514.66,South
+ORD-10799,2025-03-10,2025-03-11,Standard Class,CUST-20799,David,Consumer,India,Karnataka,Bangalore,Technology,Phones,726.88,4,0.22,590.21,South
+ORD-10800,2025-03-11,2025-03-12,First Class,CUST-20800,David,Consumer,India,Karnataka,Bangalore,Office Supplies,Accessories,2119.73,4,0.06,-136.93,South
+ORD-10801,2025-03-12,2025-03-13,Second Class,CUST-20801,John,Consumer,India,Maharashtra,Nagpur,Office Supplies,Storage,4180.02,4,0.03,722.43,West
+ORD-10802,2025-03-13,2025-03-14,Second Class,CUST-20802,Priya,Consumer,India,Tamil Nadu,Madurai,Furniture,Chairs,1943.61,6,0.21,-276.52,South
+ORD-10803,2025-03-14,2025-03-15,Second Class,CUST-20803,Meera,Corporate,India,Karnataka,Bangalore,Furniture,Binders,6551.05,2,0.05,327.55,South
+ORD-10804,2025-03-15,2025-03-16,First Class,CUST-20804,Meera,Corporate,India,Maharashtra,Pune,Furniture,Tables,1091.2,6,0.24,130.32,West
+ORD-10805,2025-03-16,2025-03-17,Standard Class,CUST-20805,John,Consumer,India,Delhi,New Delhi,Office Supplies,Chairs,5622.28,7,0.09,662.39,North
+ORD-10806,2025-03-17,2025-03-18,Second Class,CUST-20806,Sara,Home Office,India,Telangana,Warangal,Furniture,Accessories,3654.05,3,0.1,106.59,South
+ORD-10807,2025-03-18,2025-03-19,Same Day,CUST-20807,Priya,Consumer,India,Telangana,Warangal,Furniture,Binders,5302.25,8,0.0,774.85,South
+ORD-10808,2025-03-19,2025-03-20,Second Class,CUST-20808,Ali,Home Office,India,Tamil Nadu,Coimbatore,Technology,Binders,2312.86,2,0.21,473.44,South
+ORD-10809,2025-03-20,2025-03-21,Second Class,CUST-20809,Sara,Consumer,India,Telangana,Warangal,Furniture,Binders,3698.53,8,0.03,732.06,South
+ORD-10810,2025-03-21,2025-03-22,Second Class,CUST-20810,Sara,Home Office,India,Delhi,New Delhi,Furniture,Phones,6026.48,5,0.23,986.14,North
+ORD-10811,2025-03-22,2025-03-23,Second Class,CUST-20811,John,Consumer,India,Maharashtra,Pune,Office Supplies,Tables,3374.77,2,0.15,582.91,West
+ORD-10812,2025-03-23,2025-03-24,Standard Class,CUST-20812,John,Home Office,India,Telangana,Hyderabad,Office Supplies,Accessories,2646.1,7,0.24,980.44,South
+ORD-10813,2025-03-24,2025-03-25,Same Day,CUST-20813,Meera,Consumer,India,Telangana,Warangal,Technology,Accessories,3845.86,2,0.18,-262.51,South
+ORD-10814,2025-03-25,2025-03-26,Standard Class,CUST-20814,John,Consumer,India,Karnataka,Bangalore,Furniture,Binders,5078.07,6,0.02,139.58,South
+ORD-10815,2025-03-26,2025-03-27,Same Day,CUST-20815,John,Home Office,India,Delhi,New Delhi,Technology,Accessories,3216.23,3,0.23,-159.79,North
+ORD-10816,2025-03-27,2025-03-28,Second Class,CUST-20816,John,Corporate,India,Tamil Nadu,Chennai,Office Supplies,Tables,6584.36,9,0.02,41.0,South
+ORD-10817,2025-03-28,2025-03-29,First Class,CUST-20817,Meera,Home Office,India,Tamil Nadu,Chennai,Technology,Tables,2205.63,3,0.14,790.55,South
+ORD-10818,2025-03-29,2025-03-30,Standard Class,CUST-20818,Ali,Corporate,India,Karnataka,Bangalore,Office Supplies,Storage,3433.15,3,0.05,-257.98,South
+ORD-10819,2025-03-30,2025-03-31,First Class,CUST-20819,Ali,Consumer,India,Maharashtra,Pune,Technology,Storage,5347.11,5,0.23,376.24,West
+ORD-10820,2025-03-31,2025-04-01,Standard Class,CUST-20820,John,Home Office,India,Delhi,New Delhi,Technology,Chairs,4886.02,7,0.27,437.27,North
+ORD-10821,2025-04-01,2025-04-02,Second Class,CUST-20821,Meera,Home Office,India,Karnataka,Bangalore,Furniture,Tables,6072.76,8,0.17,429.5,South
+ORD-10822,2025-04-02,2025-04-03,Standard Class,CUST-20822,Ali,Home Office,India,Telangana,Warangal,Technology,Tables,6978.3,7,0.16,317.89,South
+ORD-10823,2025-04-03,2025-04-04,Second Class,CUST-20823,Sara,Corporate,India,Karnataka,Mysore,Furniture,Tables,3102.64,9,0.23,727.78,South
+ORD-10824,2025-04-04,2025-04-05,Standard Class,CUST-20824,Ali,Corporate,India,Telangana,Hyderabad,Furniture,Storage,955.83,5,0.0,-126.39,South
+ORD-10825,2025-04-05,2025-04-06,Second Class,CUST-20825,Ali,Consumer,India,Maharashtra,Mumbai,Furniture,Binders,406.83,3,0.28,103.75,West
+ORD-10826,2025-04-06,2025-04-07,Second Class,CUST-20826,Meera,Corporate,India,Karnataka,Mysore,Furniture,Binders,5142.76,6,0.06,500.44,South
+ORD-10827,2025-04-07,2025-04-08,Same Day,CUST-20827,Sara,Corporate,India,Telangana,Hyderabad,Technology,Accessories,6143.29,5,0.3,598.24,South
+ORD-10828,2025-04-08,2025-04-09,Second Class,CUST-20828,Meera,Consumer,India,Delhi,New Delhi,Office Supplies,Binders,1700.85,4,0.22,225.39,North
+ORD-10829,2025-04-09,2025-04-10,Same Day,CUST-20829,John,Home Office,India,Maharashtra,Pune,Office Supplies,Phones,1277.45,2,0.23,837.98,West
+ORD-10830,2025-04-10,2025-04-11,Second Class,CUST-20830,David,Home Office,India,Tamil Nadu,Chennai,Office Supplies,Storage,622.99,7,0.2,240.14,South
+ORD-10831,2025-04-11,2025-04-12,First Class,CUST-20831,Ali,Consumer,India,Maharashtra,Mumbai,Technology,Tables,5794.38,5,0.14,223.61,West
+ORD-10832,2025-04-12,2025-04-13,Second Class,CUST-20832,David,Home Office,India,Delhi,New Delhi,Furniture,Binders,2317.4,4,0.17,-252.93,North
+ORD-10833,2025-04-13,2025-04-14,First Class,CUST-20833,Meera,Corporate,India,Tamil Nadu,Coimbatore,Office Supplies,Storage,2931.54,8,0.01,416.48,South
+ORD-10834,2025-04-14,2025-04-15,First Class,CUST-20834,Meera,Consumer,India,Tamil Nadu,Madurai,Technology,Binders,3618.7,9,0.19,621.29,South
+ORD-10835,2025-04-15,2025-04-16,Second Class,CUST-20835,Meera,Consumer,India,Delhi,New Delhi,Furniture,Chairs,5908.28,9,0.19,-151.23,North
+ORD-10836,2025-04-16,2025-04-17,First Class,CUST-20836,David,Consumer,India,Maharashtra,Mumbai,Office Supplies,Tables,4625.67,3,0.27,97.06,West
+ORD-10837,2025-04-17,2025-04-18,Same Day,CUST-20837,Meera,Home Office,India,Tamil Nadu,Madurai,Furniture,Chairs,4382.44,3,0.15,715.63,South
+ORD-10838,2025-04-18,2025-04-19,Standard Class,CUST-20838,John,Consumer,India,Maharashtra,Pune,Office Supplies,Tables,1394.57,5,0.02,175.7,West
+ORD-10839,2025-04-19,2025-04-20,Second Class,CUST-20839,Meera,Consumer,India,Karnataka,Mysore,Office Supplies,Storage,3689.69,5,0.09,14.08,South
+ORD-10840,2025-04-20,2025-04-21,First Class,CUST-20840,Priya,Consumer,India,Karnataka,Mysore,Office Supplies,Accessories,5064.59,2,0.2,573.86,South
+ORD-10841,2025-04-21,2025-04-22,Second Class,CUST-20841,David,Home Office,India,Maharashtra,Mumbai,Furniture,Binders,6818.17,1,0.07,-44.21,West
+ORD-10842,2025-04-22,2025-04-23,Same Day,CUST-20842,Priya,Corporate,India,Tamil Nadu,Chennai,Technology,Binders,1569.56,8,0.08,864.35,South
+ORD-10843,2025-04-23,2025-04-24,Second Class,CUST-20843,Meera,Consumer,India,Tamil Nadu,Madurai,Furniture,Phones,264.89,3,0.25,-162.72,South
+ORD-10844,2025-04-24,2025-04-25,Second Class,CUST-20844,John,Corporate,India,Tamil Nadu,Chennai,Office Supplies,Chairs,712.05,1,0.18,618.51,South
+ORD-10845,2025-04-25,2025-04-26,First Class,CUST-20845,Ali,Home Office,India,Delhi,New Delhi,Furniture,Binders,2755.8,1,0.15,349.41,North
+ORD-10846,2025-04-26,2025-04-27,Same Day,CUST-20846,Sara,Home Office,India,Delhi,New Delhi,Technology,Storage,5779.7,2,0.1,830.91,North
+ORD-10847,2025-04-27,2025-04-28,Standard Class,CUST-20847,Sara,Home Office,India,Telangana,Warangal,Furniture,Accessories,248.57,6,0.22,-135.95,South
+ORD-10848,2025-04-28,2025-04-29,Standard Class,CUST-20848,Meera,Home Office,India,Maharashtra,Mumbai,Technology,Storage,3305.77,6,0.09,581.26,West
+ORD-10849,2025-04-29,2025-04-30,First Class,CUST-20849,John,Corporate,India,Maharashtra,Nagpur,Technology,Chairs,2438.77,3,0.22,443.67,West
+ORD-10850,2025-04-30,2025-05-01,Second Class,CUST-20850,David,Consumer,India,Delhi,New Delhi,Furniture,Phones,556.88,4,0.02,324.12,North
+ORD-10851,2025-05-01,2025-05-02,First Class,CUST-20851,Priya,Home Office,India,Telangana,Warangal,Office Supplies,Binders,3261.61,2,0.26,338.83,South
+ORD-10852,2025-05-02,2025-05-03,First Class,CUST-20852,Priya,Home Office,India,Maharashtra,Pune,Technology,Storage,1932.29,2,0.15,638.57,West
+ORD-10853,2025-05-03,2025-05-04,First Class,CUST-20853,Priya,Corporate,India,Tamil Nadu,Madurai,Furniture,Tables,2592.82,7,0.13,919.06,South
+ORD-10854,2025-05-04,2025-05-05,Second Class,CUST-20854,David,Corporate,India,Delhi,New Delhi,Technology,Accessories,4998.18,1,0.18,-181.37,North
+ORD-10855,2025-05-05,2025-05-06,Same Day,CUST-20855,Sara,Home Office,India,Delhi,New Delhi,Office Supplies,Storage,3746.55,7,0.19,-274.65,North
+ORD-10856,2025-05-06,2025-05-07,First Class,CUST-20856,John,Consumer,India,Telangana,Warangal,Furniture,Accessories,1047.6,1,0.04,747.42,South
+ORD-10857,2025-05-07,2025-05-08,Second Class,CUST-20857,David,Consumer,India,Delhi,New Delhi,Furniture,Binders,6737.62,6,0.23,-159.38,North
+ORD-10858,2025-05-08,2025-05-09,Same Day,CUST-20858,Priya,Home Office,India,Maharashtra,Nagpur,Furniture,Tables,4524.19,3,0.08,982.71,West
+ORD-10859,2025-05-09,2025-05-10,First Class,CUST-20859,Meera,Corporate,India,Maharashtra,Nagpur,Office Supplies,Phones,5407.91,8,0.27,505.15,West
+ORD-10860,2025-05-10,2025-05-11,Standard Class,CUST-20860,Ali,Home Office,India,Maharashtra,Pune,Technology,Phones,738.65,6,0.25,546.13,West
+ORD-10861,2025-05-11,2025-05-12,Same Day,CUST-20861,David,Home Office,India,Karnataka,Bangalore,Furniture,Tables,520.0,2,0.1,-41.44,South
+ORD-10862,2025-05-12,2025-05-13,First Class,CUST-20862,David,Corporate,India,Karnataka,Bangalore,Technology,Accessories,332.25,8,0.24,12.41,South
+ORD-10863,2025-05-13,2025-05-14,Same Day,CUST-20863,John,Home Office,India,Karnataka,Bangalore,Technology,Binders,1483.8,5,0.11,557.16,South
+ORD-10864,2025-05-14,2025-05-15,Same Day,CUST-20864,John,Home Office,India,Tamil Nadu,Coimbatore,Office Supplies,Storage,3017.98,8,0.03,882.64,South
+ORD-10865,2025-05-15,2025-05-16,Same Day,CUST-20865,David,Home Office,India,Telangana,Warangal,Furniture,Tables,6563.62,8,0.29,977.11,South
+ORD-10866,2025-05-16,2025-05-17,Same Day,CUST-20866,Priya,Corporate,India,Maharashtra,Mumbai,Technology,Chairs,3308.01,6,0.2,-42.56,West
+ORD-10867,2025-05-17,2025-05-18,Same Day,CUST-20867,Ali,Consumer,India,Tamil Nadu,Chennai,Furniture,Accessories,2173.73,2,0.14,-125.64,South
+ORD-10868,2025-05-18,2025-05-19,Same Day,CUST-20868,John,Consumer,India,Telangana,Warangal,Furniture,Phones,4021.16,8,0.12,-226.68,South
+ORD-10869,2025-05-19,2025-05-20,First Class,CUST-20869,Priya,Corporate,India,Karnataka,Bangalore,Office Supplies,Tables,961.16,6,0.1,828.79,South
+ORD-10870,2025-05-20,2025-05-21,Standard Class,CUST-20870,Meera,Consumer,India,Maharashtra,Nagpur,Furniture,Phones,4344.64,6,0.29,83.13,West
+ORD-10871,2025-05-21,2025-05-22,Second Class,CUST-20871,John,Home Office,India,Karnataka,Bangalore,Furniture,Accessories,4065.34,8,0.04,-297.64,South
+ORD-10872,2025-05-22,2025-05-23,Same Day,CUST-20872,Priya,Consumer,India,Karnataka,Mysore,Technology,Phones,5585.55,1,0.09,-9.04,South
+ORD-10873,2025-05-23,2025-05-24,Second Class,CUST-20873,Priya,Home Office,India,Tamil Nadu,Madurai,Office Supplies,Tables,6909.48,2,0.15,142.57,South
+ORD-10874,2025-05-24,2025-05-25,First Class,CUST-20874,Ali,Consumer,India,Telangana,Warangal,Furniture,Accessories,1905.94,9,0.14,988.28,South
+ORD-10875,2025-05-25,2025-05-26,Same Day,CUST-20875,Ali,Corporate,India,Maharashtra,Mumbai,Technology,Chairs,3665.66,8,0.14,380.6,West
+ORD-10876,2025-05-26,2025-05-27,Standard Class,CUST-20876,Meera,Consumer,India,Tamil Nadu,Chennai,Office Supplies,Tables,6380.28,7,0.05,-33.87,South
+ORD-10877,2025-05-27,2025-05-28,Second Class,CUST-20877,Priya,Consumer,India,Delhi,New Delhi,Office Supplies,Storage,5539.29,7,0.04,135.26,North
+ORD-10878,2025-05-28,2025-05-29,Same Day,CUST-20878,Sara,Consumer,India,Maharashtra,Pune,Technology,Binders,3514.36,5,0.08,129.4,West
+ORD-10879,2025-05-29,2025-05-30,First Class,CUST-20879,Priya,Corporate,India,Telangana,Hyderabad,Technology,Tables,6628.53,2,0.27,-274.36,South
+ORD-10880,2025-05-30,2025-05-31,Standard Class,CUST-20880,Ali,Consumer,India,Telangana,Hyderabad,Technology,Accessories,589.21,6,0.03,-124.26,South
+ORD-10881,2025-05-31,2025-06-01,Second Class,CUST-20881,Sara,Corporate,India,Delhi,New Delhi,Technology,Binders,6530.79,3,0.23,603.76,North
+ORD-10882,2025-06-01,2025-06-02,Second Class,CUST-20882,John,Home Office,India,Maharashtra,Mumbai,Technology,Tables,543.45,4,0.23,-143.67,West
+ORD-10883,2025-06-02,2025-06-03,Same Day,CUST-20883,John,Consumer,India,Telangana,Hyderabad,Furniture,Chairs,3921.67,2,0.24,-0.05,South
+ORD-10884,2025-06-03,2025-06-04,Standard Class,CUST-20884,David,Corporate,India,Karnataka,Mysore,Furniture,Chairs,6255.0,2,0.27,155.96,South
+ORD-10885,2025-06-04,2025-06-05,Standard Class,CUST-20885,Ali,Corporate,India,Karnataka,Bangalore,Office Supplies,Storage,1986.5,8,0.08,685.06,South
+ORD-10886,2025-06-05,2025-06-06,Standard Class,CUST-20886,David,Consumer,India,Tamil Nadu,Chennai,Furniture,Phones,3411.29,8,0.07,457.12,South
+ORD-10887,2025-06-06,2025-06-07,Standard Class,CUST-20887,Sara,Home Office,India,Telangana,Hyderabad,Furniture,Binders,2405.44,6,0.14,595.7,South
+ORD-10888,2025-06-07,2025-06-08,First Class,CUST-20888,Ali,Corporate,India,Karnataka,Mysore,Furniture,Accessories,6674.58,5,0.08,437.12,South
+ORD-10889,2025-06-08,2025-06-09,Standard Class,CUST-20889,Meera,Consumer,India,Delhi,New Delhi,Technology,Accessories,5800.79,8,0.22,588.67,North
+ORD-10890,2025-06-09,2025-06-10,Second Class,CUST-20890,Priya,Home Office,India,Telangana,Hyderabad,Office Supplies,Phones,5021.21,4,0.19,-296.31,South
+ORD-10891,2025-06-10,2025-06-11,Second Class,CUST-20891,Meera,Corporate,India,Karnataka,Mysore,Office Supplies,Chairs,4195.86,4,0.26,910.17,South
+ORD-10892,2025-06-11,2025-06-12,First Class,CUST-20892,Sara,Corporate,India,Maharashtra,Mumbai,Office Supplies,Chairs,5780.02,5,0.02,-155.8,West
+ORD-10893,2025-06-12,2025-06-13,Second Class,CUST-20893,Ali,Home Office,India,Delhi,New Delhi,Office Supplies,Tables,2867.42,1,0.27,228.12,North
+ORD-10894,2025-06-13,2025-06-14,Second Class,CUST-20894,Sara,Home Office,India,Maharashtra,Mumbai,Furniture,Storage,3243.35,1,0.09,702.35,West
+ORD-10895,2025-06-14,2025-06-15,Standard Class,CUST-20895,Priya,Consumer,India,Tamil Nadu,Coimbatore,Furniture,Binders,5164.01,2,0.15,265.8,South
+ORD-10896,2025-06-15,2025-06-16,Second Class,CUST-20896,John,Consumer,India,Maharashtra,Pune,Technology,Storage,2632.73,8,0.13,930.9,West
+ORD-10897,2025-06-16,2025-06-17,First Class,CUST-20897,John,Corporate,India,Maharashtra,Nagpur,Office Supplies,Storage,634.53,7,0.23,307.87,West
+ORD-10898,2025-06-17,2025-06-18,Standard Class,CUST-20898,Sara,Home Office,India,Karnataka,Bangalore,Furniture,Tables,705.48,9,0.13,837.42,South
+ORD-10899,2025-06-18,2025-06-19,Same Day,CUST-20899,David,Home Office,India,Karnataka,Mysore,Furniture,Storage,984.47,5,0.28,754.08,South
+ORD-10900,2025-06-19,2025-06-20,Standard Class,CUST-20900,Ali,Home Office,India,Telangana,Hyderabad,Technology,Phones,6113.83,2,0.27,975.28,South
+ORD-10901,2025-06-20,2025-06-21,First Class,CUST-20901,Ali,Corporate,India,Maharashtra,Mumbai,Technology,Tables,3411.14,7,0.26,904.51,West
+ORD-10902,2025-06-21,2025-06-22,Standard Class,CUST-20902,John,Home Office,India,Telangana,Warangal,Technology,Phones,5047.6,8,0.02,867.56,South
+ORD-10903,2025-06-22,2025-06-23,Standard Class,CUST-20903,Meera,Home Office,India,Delhi,New Delhi,Furniture,Tables,2871.78,7,0.26,651.09,North
+ORD-10904,2025-06-23,2025-06-24,First Class,CUST-20904,Priya,Corporate,India,Tamil Nadu,Madurai,Furniture,Storage,1959.23,7,0.23,177.1,South
+ORD-10905,2025-06-24,2025-06-25,Standard Class,CUST-20905,Meera,Consumer,India,Telangana,Warangal,Technology,Phones,2560.91,5,0.03,-162.04,South
+ORD-10906,2025-06-25,2025-06-26,First Class,CUST-20906,Meera,Consumer,India,Tamil Nadu,Chennai,Office Supplies,Phones,5600.44,2,0.03,595.24,South
+ORD-10907,2025-06-26,2025-06-27,First Class,CUST-20907,Sara,Corporate,India,Telangana,Hyderabad,Technology,Phones,4451.47,6,0.03,972.25,South
+ORD-10908,2025-06-27,2025-06-28,Same Day,CUST-20908,John,Home Office,India,Tamil Nadu,Chennai,Technology,Tables,6575.95,4,0.0,644.59,South
+ORD-10909,2025-06-28,2025-06-29,Second Class,CUST-20909,John,Corporate,India,Karnataka,Mysore,Technology,Accessories,4821.99,2,0.16,907.35,South
+ORD-10910,2025-06-29,2025-06-30,Second Class,CUST-20910,John,Consumer,India,Telangana,Warangal,Technology,Storage,4077.24,9,0.29,745.6,South
+ORD-10911,2025-06-30,2025-07-01,Standard Class,CUST-20911,Sara,Consumer,India,Delhi,New Delhi,Furniture,Phones,4349.33,7,0.13,-87.95,North
+ORD-10912,2025-07-01,2025-07-02,Standard Class,CUST-20912,David,Corporate,India,Maharashtra,Nagpur,Office Supplies,Binders,6608.13,6,0.16,23.96,West
+ORD-10913,2025-07-02,2025-07-03,Same Day,CUST-20913,Meera,Corporate,India,Maharashtra,Pune,Technology,Accessories,5559.77,5,0.29,144.43,West
+ORD-10914,2025-07-03,2025-07-04,Same Day,CUST-20914,Sara,Consumer,India,Tamil Nadu,Madurai,Office Supplies,Binders,363.48,3,0.08,-81.26,South
+ORD-10915,2025-07-04,2025-07-05,Same Day,CUST-20915,Ali,Corporate,India,Karnataka,Mysore,Office Supplies,Storage,3832.15,4,0.26,456.15,South
+ORD-10916,2025-07-05,2025-07-06,First Class,CUST-20916,Priya,Consumer,India,Telangana,Hyderabad,Office Supplies,Storage,4880.7,3,0.16,968.09,South
+ORD-10917,2025-07-06,2025-07-07,Same Day,CUST-20917,David,Corporate,India,Karnataka,Mysore,Technology,Phones,5291.15,8,0.17,689.9,South
+ORD-10918,2025-07-07,2025-07-08,Same Day,CUST-20918,Ali,Corporate,India,Karnataka,Mysore,Furniture,Phones,1649.37,3,0.1,250.4,South
+ORD-10919,2025-07-08,2025-07-09,Standard Class,CUST-20919,Meera,Corporate,India,Maharashtra,Mumbai,Technology,Tables,6096.81,7,0.17,-294.14,West
+ORD-10920,2025-07-09,2025-07-10,Same Day,CUST-20920,John,Consumer,India,Delhi,New Delhi,Office Supplies,Accessories,6699.73,7,0.02,107.26,North
+ORD-10921,2025-07-10,2025-07-11,First Class,CUST-20921,Meera,Corporate,India,Karnataka,Mysore,Office Supplies,Accessories,1809.66,7,0.23,384.79,South
+ORD-10922,2025-07-11,2025-07-12,First Class,CUST-20922,Sara,Consumer,India,Maharashtra,Pune,Furniture,Phones,6201.79,7,0.09,121.53,West
+ORD-10923,2025-07-12,2025-07-13,Standard Class,CUST-20923,Priya,Consumer,India,Telangana,Hyderabad,Technology,Storage,859.46,2,0.27,-155.65,South
+ORD-10924,2025-07-13,2025-07-14,Same Day,CUST-20924,Sara,Corporate,India,Tamil Nadu,Chennai,Office Supplies,Phones,578.81,3,0.11,275.59,South
+ORD-10925,2025-07-14,2025-07-15,Same Day,CUST-20925,David,Corporate,India,Karnataka,Mysore,Furniture,Storage,1078.72,9,0.04,29.23,South
+ORD-10926,2025-07-15,2025-07-16,First Class,CUST-20926,David,Consumer,India,Maharashtra,Nagpur,Office Supplies,Storage,592.64,3,0.21,882.0,West
+ORD-10927,2025-07-16,2025-07-17,Same Day,CUST-20927,Priya,Consumer,India,Telangana,Warangal,Furniture,Phones,5946.08,2,0.05,-167.72,South
+ORD-10928,2025-07-17,2025-07-18,Same Day,CUST-20928,Ali,Home Office,India,Karnataka,Bangalore,Furniture,Chairs,601.54,9,0.23,-236.1,South
+ORD-10929,2025-07-18,2025-07-19,Same Day,CUST-20929,Ali,Consumer,India,Karnataka,Bangalore,Technology,Accessories,2047.32,9,0.29,-293.09,South
+ORD-10930,2025-07-19,2025-07-20,Second Class,CUST-20930,David,Home Office,India,Delhi,New Delhi,Office Supplies,Binders,905.54,4,0.23,126.49,North
+ORD-10931,2025-07-20,2025-07-21,Standard Class,CUST-20931,David,Home Office,India,Delhi,New Delhi,Technology,Storage,2208.87,9,0.01,558.5,North
+ORD-10932,2025-07-21,2025-07-22,Second Class,CUST-20932,John,Home Office,India,Maharashtra,Mumbai,Office Supplies,Storage,815.8,3,0.18,649.54,West
+ORD-10933,2025-07-22,2025-07-23,Standard Class,CUST-20933,Ali,Corporate,India,Delhi,New Delhi,Technology,Chairs,4742.42,7,0.21,289.24,North
+ORD-10934,2025-07-23,2025-07-24,First Class,CUST-20934,Priya,Corporate,India,Delhi,New Delhi,Office Supplies,Binders,1106.62,7,0.25,589.63,North
+ORD-10935,2025-07-24,2025-07-25,Same Day,CUST-20935,Ali,Consumer,India,Delhi,New Delhi,Technology,Tables,5992.55,8,0.02,167.89,North
+ORD-10936,2025-07-25,2025-07-26,Standard Class,CUST-20936,John,Home Office,India,Karnataka,Mysore,Furniture,Chairs,5756.9,4,0.14,568.15,South
+ORD-10937,2025-07-26,2025-07-27,Second Class,CUST-20937,Sara,Corporate,India,Telangana,Warangal,Office Supplies,Binders,292.9,3,0.16,-247.23,South
+ORD-10938,2025-07-27,2025-07-28,Same Day,CUST-20938,David,Corporate,India,Tamil Nadu,Coimbatore,Office Supplies,Chairs,6290.94,3,0.05,207.98,South
+ORD-10939,2025-07-28,2025-07-29,First Class,CUST-20939,David,Corporate,India,Tamil Nadu,Coimbatore,Furniture,Storage,396.82,5,0.1,728.1,South
+ORD-10940,2025-07-29,2025-07-30,Standard Class,CUST-20940,John,Corporate,India,Tamil Nadu,Coimbatore,Technology,Accessories,1829.59,1,0.13,743.91,South
+ORD-10941,2025-07-30,2025-07-31,Standard Class,CUST-20941,Priya,Corporate,India,Karnataka,Mysore,Office Supplies,Chairs,420.25,3,0.25,630.99,South
+ORD-10942,2025-07-31,2025-08-01,Standard Class,CUST-20942,David,Home Office,India,Telangana,Warangal,Office Supplies,Tables,2483.74,6,0.28,-34.49,South
+ORD-10943,2025-08-01,2025-08-02,Same Day,CUST-20943,Meera,Home Office,India,Karnataka,Mysore,Technology,Phones,3694.29,3,0.19,21.37,South
+ORD-10944,2025-08-02,2025-08-03,Second Class,CUST-20944,David,Home Office,India,Maharashtra,Nagpur,Furniture,Binders,5617.19,5,0.12,994.92,West
+ORD-10945,2025-08-03,2025-08-04,Second Class,CUST-20945,Meera,Home Office,India,Telangana,Warangal,Technology,Chairs,2498.27,9,0.08,-165.61,South
+ORD-10946,2025-08-04,2025-08-05,Standard Class,CUST-20946,John,Consumer,India,Maharashtra,Nagpur,Technology,Chairs,4997.33,2,0.29,-65.14,West
+ORD-10947,2025-08-05,2025-08-06,First Class,CUST-20947,John,Home Office,India,Maharashtra,Nagpur,Technology,Tables,1475.03,2,0.29,-130.97,West
+ORD-10948,2025-08-06,2025-08-07,First Class,CUST-20948,David,Corporate,India,Tamil Nadu,Coimbatore,Office Supplies,Accessories,5304.07,6,0.28,125.95,South
+ORD-10949,2025-08-07,2025-08-08,Second Class,CUST-20949,Ali,Home Office,India,Telangana,Hyderabad,Furniture,Chairs,1804.78,6,0.24,-26.77,South
+ORD-10950,2025-08-08,2025-08-09,First Class,CUST-20950,Meera,Consumer,India,Karnataka,Bangalore,Furniture,Chairs,1176.1,8,0.1,346.99,South
+ORD-10951,2025-08-09,2025-08-10,Second Class,CUST-20951,Priya,Corporate,India,Karnataka,Mysore,Technology,Accessories,1460.78,2,0.25,318.83,South
+ORD-10952,2025-08-10,2025-08-11,Standard Class,CUST-20952,David,Home Office,India,Karnataka,Bangalore,Office Supplies,Tables,1438.03,9,0.12,871.96,South
+ORD-10953,2025-08-11,2025-08-12,Second Class,CUST-20953,Priya,Home Office,India,Delhi,New Delhi,Technology,Binders,3687.47,2,0.1,-254.84,North
+ORD-10954,2025-08-12,2025-08-13,Second Class,CUST-20954,David,Home Office,India,Tamil Nadu,Madurai,Office Supplies,Binders,5944.62,1,0.22,115.84,South
+ORD-10955,2025-08-13,2025-08-14,Standard Class,CUST-20955,Ali,Corporate,India,Maharashtra,Mumbai,Office Supplies,Chairs,741.31,2,0.02,475.66,West
+ORD-10956,2025-08-14,2025-08-15,First Class,CUST-20956,Ali,Corporate,India,Maharashtra,Mumbai,Office Supplies,Accessories,5007.3,7,0.01,486.24,West
+ORD-10957,2025-08-15,2025-08-16,Second Class,CUST-20957,Ali,Consumer,India,Telangana,Warangal,Office Supplies,Chairs,4649.56,8,0.13,324.16,South
+ORD-10958,2025-08-16,2025-08-17,Second Class,CUST-20958,Sara,Corporate,India,Karnataka,Bangalore,Furniture,Phones,6133.14,5,0.13,760.37,South
+ORD-10959,2025-08-17,2025-08-18,Standard Class,CUST-20959,Ali,Corporate,India,Delhi,New Delhi,Office Supplies,Binders,1860.2,6,0.27,-218.46,North
+ORD-10960,2025-08-18,2025-08-19,First Class,CUST-20960,John,Home Office,India,Telangana,Hyderabad,Office Supplies,Storage,3260.75,1,0.04,760.13,South
+ORD-10961,2025-08-19,2025-08-20,Second Class,CUST-20961,John,Corporate,India,Telangana,Hyderabad,Technology,Phones,6495.63,6,0.04,343.18,South
+ORD-10962,2025-08-20,2025-08-21,Standard Class,CUST-20962,Sara,Home Office,India,Delhi,New Delhi,Technology,Chairs,4687.96,8,0.04,-126.11,North
+ORD-10963,2025-08-21,2025-08-22,Second Class,CUST-20963,Meera,Home Office,India,Delhi,New Delhi,Furniture,Tables,2843.63,3,0.01,851.41,North
+ORD-10964,2025-08-22,2025-08-23,Same Day,CUST-20964,Priya,Corporate,India,Maharashtra,Mumbai,Technology,Binders,1093.6,1,0.02,544.0,West
+ORD-10965,2025-08-23,2025-08-24,Standard Class,CUST-20965,David,Consumer,India,Maharashtra,Nagpur,Office Supplies,Storage,1984.9,4,0.2,-87.39,West
+ORD-10966,2025-08-24,2025-08-25,First Class,CUST-20966,David,Consumer,India,Delhi,New Delhi,Technology,Phones,4152.27,1,0.13,-256.26,North
+ORD-10967,2025-08-25,2025-08-26,First Class,CUST-20967,Sara,Corporate,India,Telangana,Hyderabad,Furniture,Binders,5083.54,8,0.23,-116.56,South
+ORD-10968,2025-08-26,2025-08-27,First Class,CUST-20968,John,Consumer,India,Maharashtra,Nagpur,Technology,Accessories,1046.07,5,0.3,491.44,West
+ORD-10969,2025-08-27,2025-08-28,First Class,CUST-20969,David,Home Office,India,Telangana,Hyderabad,Technology,Tables,4277.26,1,0.2,-66.91,South
+ORD-10970,2025-08-28,2025-08-29,Second Class,CUST-20970,John,Home Office,India,Karnataka,Mysore,Furniture,Phones,3942.39,8,0.02,-6.51,South
+ORD-10971,2025-08-29,2025-08-30,Second Class,CUST-20971,Meera,Corporate,India,Karnataka,Bangalore,Furniture,Accessories,3694.9,9,0.03,-267.32,South
+ORD-10972,2025-08-30,2025-08-31,First Class,CUST-20972,Priya,Consumer,India,Telangana,Warangal,Office Supplies,Chairs,4892.84,2,0.26,639.81,South
+ORD-10973,2025-08-31,2025-09-01,First Class,CUST-20973,Meera,Consumer,India,Tamil Nadu,Chennai,Technology,Accessories,5894.66,9,0.16,753.47,South
+ORD-10974,2025-09-01,2025-09-02,First Class,CUST-20974,Sara,Home Office,India,Delhi,New Delhi,Office Supplies,Phones,2396.33,8,0.25,735.9,North
+ORD-10975,2025-09-02,2025-09-03,Second Class,CUST-20975,Ali,Corporate,India,Karnataka,Bangalore,Technology,Phones,6245.28,7,0.26,-134.16,South
+ORD-10976,2025-09-03,2025-09-04,First Class,CUST-20976,Ali,Consumer,India,Delhi,New Delhi,Technology,Chairs,1292.31,3,0.28,874.29,North
+ORD-10977,2025-09-04,2025-09-05,First Class,CUST-20977,Ali,Corporate,India,Telangana,Warangal,Office Supplies,Accessories,1376.56,2,0.28,573.96,South
+ORD-10978,2025-09-05,2025-09-06,Same Day,CUST-20978,Meera,Consumer,India,Delhi,New Delhi,Technology,Accessories,2014.05,7,0.17,866.79,North
+ORD-10979,2025-09-06,2025-09-07,Same Day,CUST-20979,David,Home Office,India,Tamil Nadu,Chennai,Technology,Chairs,1012.81,5,0.1,281.31,South
+ORD-10980,2025-09-07,2025-09-08,First Class,CUST-20980,Priya,Home Office,India,Maharashtra,Mumbai,Technology,Accessories,1766.17,6,0.29,268.04,West
+ORD-10981,2025-09-08,2025-09-09,Standard Class,CUST-20981,Ali,Corporate,India,Telangana,Warangal,Furniture,Binders,923.6,4,0.16,719.9,South
+ORD-10982,2025-09-09,2025-09-10,First Class,CUST-20982,Sara,Home Office,India,Karnataka,Mysore,Office Supplies,Chairs,5787.92,2,0.02,-178.71,South
+ORD-10983,2025-09-10,2025-09-11,Same Day,CUST-20983,Sara,Consumer,India,Telangana,Hyderabad,Furniture,Tables,1144.99,9,0.19,377.14,South
+ORD-10984,2025-09-11,2025-09-12,Standard Class,CUST-20984,Ali,Home Office,India,Delhi,New Delhi,Office Supplies,Phones,5281.62,3,0.18,787.3,North
+ORD-10985,2025-09-12,2025-09-13,Standard Class,CUST-20985,Ali,Corporate,India,Maharashtra,Pune,Office Supplies,Tables,525.81,7,0.27,779.25,West
+ORD-10986,2025-09-13,2025-09-14,First Class,CUST-20986,Priya,Corporate,India,Telangana,Warangal,Technology,Binders,6649.94,8,0.2,942.97,South
+ORD-10987,2025-09-14,2025-09-15,Same Day,CUST-20987,Ali,Corporate,India,Tamil Nadu,Coimbatore,Office Supplies,Binders,5035.89,2,0.1,607.75,South
+ORD-10988,2025-09-15,2025-09-16,Same Day,CUST-20988,Priya,Consumer,India,Tamil Nadu,Coimbatore,Furniture,Storage,246.22,6,0.29,-29.9,South
+ORD-10989,2025-09-16,2025-09-17,Standard Class,CUST-20989,Sara,Consumer,India,Delhi,New Delhi,Furniture,Storage,5394.22,8,0.24,-273.64,North
+ORD-10990,2025-09-17,2025-09-18,First Class,CUST-20990,Ali,Consumer,India,Delhi,New Delhi,Furniture,Storage,3695.76,7,0.19,323.24,North
+ORD-10991,2025-09-18,2025-09-19,Second Class,CUST-20991,Meera,Consumer,India,Delhi,New Delhi,Office Supplies,Chairs,5499.68,3,0.09,367.82,North
+ORD-10992,2025-09-19,2025-09-20,Second Class,CUST-20992,Meera,Consumer,India,Tamil Nadu,Coimbatore,Furniture,Accessories,3752.98,1,0.11,12.34,South
+ORD-10993,2025-09-20,2025-09-21,Same Day,CUST-20993,Sara,Home Office,India,Tamil Nadu,Madurai,Office Supplies,Binders,4558.97,6,0.2,-137.89,South
+ORD-10994,2025-09-21,2025-09-22,Second Class,CUST-20994,Priya,Consumer,India,Maharashtra,Mumbai,Furniture,Tables,5547.06,8,0.02,462.07,West
+ORD-10995,2025-09-22,2025-09-23,Same Day,CUST-20995,Meera,Consumer,India,Karnataka,Mysore,Furniture,Tables,2954.73,6,0.08,693.53,South
+ORD-10996,2025-09-23,2025-09-24,Same Day,CUST-20996,Priya,Home Office,India,Telangana,Warangal,Office Supplies,Tables,218.42,5,0.21,991.1,South
+ORD-10997,2025-09-24,2025-09-25,Same Day,CUST-20997,Meera,Consumer,India,Maharashtra,Mumbai,Furniture,Tables,5979.64,8,0.14,685.79,West
+ORD-10998,2025-09-25,2025-09-26,Second Class,CUST-20998,Meera,Corporate,India,Maharashtra,Pune,Technology,Storage,2790.05,2,0.12,731.72,West
+ORD-10999,2025-09-26,2025-09-27,Same Day,CUST-20999,Priya,Consumer,India,Karnataka,Mysore,Office Supplies,Tables,3573.09,1,0.05,501.4,South
